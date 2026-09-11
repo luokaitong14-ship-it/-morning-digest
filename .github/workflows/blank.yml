@@ -1,6 +1,6 @@
- name: ci
+name: 每日晨报
 
-on:
+'on':
   workflow_dispatch:
 
 jobs:
