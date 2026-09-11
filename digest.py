@@ -144,7 +144,8 @@ response = client.chat.completions.create(
             "content": prompt
         }
     ],
-    stream=False
+        stream=False,
+    max_tokens=5000
 )
 
 result = response.choices[0].message.content
