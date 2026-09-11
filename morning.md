@@ -1,34 +1,12 @@
 # 今日晨报
 
-今天信息量不算爆炸，但有几条值得停下来看一眼。
-
----
-
-### Bending Spoons 以 13.55 亿美元收购 Miro
+### GPT-Live-1 开放 API
 
 **发生了什么：**
-Bending Spoons 已同意收购协作白板平台 Miro，交易金额约 13.55 亿美元。
+OpenAI 正式发布 GPT-Live-1，将其实时语音模型的能力通过 API 开放给开发者。这意味着第三方应用可以直接接入低延迟的语音对话能力，而不再只是 ChatGPT 内置功能。
 
 **为什么值得看：**
-这是协作工具赛道近年少有的大额收购。Miro 用户量很大，收购后产品会不会改版、收费会不会调整，直接关系到很多团队的工作方式。
-
-**值得程度：**
-🔥 很值得看
-
-**分类：**
-科技
-
-**来源：** https://investors.bendingspoons.com/newsroom/bending-spoons-agrees-to-acquire-miro
-
----
-
-### OpenAI 再陷数据争议：设置被反复开启，又有研究者称其用对话训练模型
-
-**发生了什么：**
-有 Hacker News 用户反映，OpenAI 会反复重新打开账号设置里的“允许训练”选项；另外，又一位研究人员在 Bluesky 上称，OpenAI 曾把对话数据用于训练，随后宣称是突破。两件事目前均未得到独立确认。
-
-**为什么值得看：**
-两件事都指向同一个问题：OpenAI 对用户数据的处理是否真的尊重用户选择。虽然只是单方面说法，但如果属实，会动摇很多人对 AI 服务的信任。
+实时语音是 AI 交互从“打字”走向“对话”的关键一步。API 化之后，教育、客服、硬件等场景会很快跟上，这是基础设施级别的更新。
 
 **值得程度：**
 🔥 很值得看
@@ -36,37 +14,53 @@ Bending Spoons 已同意收购协作白板平台 Miro，交易金额约 13.55 �
 **分类：**
 AI
 
-**来源：**
-- https://news.ycombinator.com/item?id=49643556
-- https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d
+**来源：** [OpenAI 官方公告](https://openai.com/index/introducing-gpt-live-1-in-the-api/)
 
 ---
 
-### 亚马逊开始在 ChatGPT 里试水广告
+### Anthropic 发布自己产品对劳动力市场影响的模型
 
 **发生了什么：**
-亚马逊开始在 ChatGPT 中试点广告服务。
+Anthropic 发布了一个模型，估算其 AI 产品对劳动力市场的长期影响。在极端情景下，模型预测认知类失业率达到 17.9%，劳动收入占 GDP 的比重从 60% 降至 45%。
 
 **为什么值得看：**
-广告正在进入 AI 对话产品，这是 AI 产品商业化的重要一步。广告主能把广告投进 ChatGPT，说明 AI 助手已经不只是聊天工具。
+这是第一家 AI 公司主动公开建模自己产品可能造成的就业冲击。数字本身不是预测，但提供了可讨论、可检验的框架，比模糊的“AI 会取代工作”有信息量得多。
 
 **值得程度：**
-👀 值得留意
+🔥 很值得看
+
+**分类：**
+AI
+
+**来源：** [Reddit 讨论帖](https://www.reddit.com/r/artificial/comments/1wcjmg9/anthropic_published_a_model_of_its_own_products/)
+
+---
+
+### 加州立法限制聊天机器人、禁止青少年使用“成瘾性”社交媒体
+
+**发生了什么：**
+加州签署了新法律，对聊天机器人的使用场景作出限制，并禁止青少年使用被认定为“成瘾性”的社交媒体平台。具体实施细节尚未完全公布。
+
+**为什么值得看：**
+加州是美国科技行业的核心辖区，这类立法会直接影响大量互联网产品的设计逻辑——从默认设置到年龄验证，再到推送机制。这是监管真正进入 AI 和社交产品日常运营的标志。
+
+**值得程度：**
+🔥 很值得看
 
 **分类：**
 互联网
 
-**来源：** https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/
+**来源：** [Reddit 讨论帖](https://www.reddit.com/r/artificial/comments/1wd2r40/california_enacts_laws_restricting_chatbots_and/)
 
 ---
 
-### Shopify 从 React Native 回到原生开发
+### 波兰开发者制作应用，识别附近的 Meta 智能眼镜
 
 **发生了什么：**
-Shopify 工程团队发文确认，放弃 React Native，重新回到原生开发。
+一位波兰开发者构建了一款应用，可以检测附近是否有 Meta 智能眼镜正在使用。应用通过识别设备发出的特定无线信号来工作。相关细节目前来自 Reddit 帖子。
 
 **为什么值得看：**
-Shopify 之前是 React Native 在大型商业产品里的代表用户。连他们都撤了，很多团队会重新评估跨平台框架的成本。
+可穿戴拍摄设备越来越隐蔽，“我在公共场合有没有被录像”成为真实焦虑。这种检测工具虽然粗糙，但代表了一种新型隐私对抗技术的方向。
 
 **值得程度：**
 👀 值得留意
@@ -74,17 +68,53 @@ Shopify 之前是 React Native 在大型商业产品里的代表用户。连他�
 **分类：**
 科技
 
-**来源：** https://shopify.engineering/back-to-native
+**来源：** [Reddit 原帖](https://www.reddit.com/r/artificial/comments/1wdcik5/polish_developer_builds_app_that_detects_nearby/)
 
 ---
 
-### 微软把 Rust 列为 Tier-1 语言
+### 一个芝士汉堡的碳排放 ≈ 63,000 次 Gemini AI 文本请求
 
 **发生了什么：**
-Rust 基金会发布消息，微软正式将 Rust 列为一级（Tier-1）编程语言。
+Reddit 上有一组对比数据被广泛转发：一个芝士汉堡的温室气体排放，大约相当于 63,000 次 Gemini AI 文本提示产生的排放。这一数字来自估算，目前尚未得到独立核实。
 
 **为什么值得看：**
-大型厂商对 Rust 的支持又进一步。系统级开发的语言格局，正在慢慢改变。
+围绕 AI 能耗的讨论大多抽象，这个对比让碳排放大小的概念立刻变得具体。无论具体数字是否精确，它都提供了一个有用的参照物——也说明 AI 的环保争议远没有结束。
+
+**值得程度：**
+👀 值得留意
+
+**分类：**
+AI
+
+**来源：** [Reddit 讨论帖](https://www.reddit.com/r/artificial/comments/1wd1dpf/one_cheeseburger_has_roughly_the_greenhouse_gas/)
+
+---
+
+### CSS 考古：来自互联网早期的一些冷门设计技巧
+
+**发生了什么：**
+一篇个人博客整理了过去的 CSS 冷知识和小技巧，包括一些早已不再使用、但充满时代感的实现方式，比如旧式布局 hack、现已废弃的 HTML 标签配套样式等。
+
+**为什么值得看：**
+这些“遗迹”纪录了网页设计从混沌走向规范的过程，对设计师理解现代 CSS 的发展脉络很有帮助，读起来也轻松有趣。
+
+**值得程度：**
+🟡 有意思，但不重要
+
+**分类：**
+设计
+
+**来源：** [CSS Relics](https://vale.rocks/posts/css-relics)
+
+---
+
+### 墨西哥中学生发明声波灭火器
+
+**发生了什么：**
+一名 16 岁的墨西哥学生制作了一种利用声波扑灭火焰的灭火器原型，声称可以在数秒内灭火。目前处于概念验证阶段，尚未有商业化的信息。
+
+**为什么值得看：**
+用声音灭火是科学上成立的原理，但大多停留在实验室。一个中学生做出可运行的设备，至少在思路上很有趣——类似的低成本创新往往能带来启发。
 
 **值得程度：**
 🟡 有意思，但不重要
@@ -92,63 +122,35 @@ Rust 基金会发布消息，微软正式将 Rust 列为一级（Tier-1）编程
 **分类：**
 科技
 
-**来源：** https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/
+**来源：** [Upsocl 报道](https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/)
 
 ---
 
-### Apple Watch 借助 Siri Recaps 一直在听
+### “Waymo 效应”：AI 正在悄悄让科研变得更不协作
 
 **发生了什么：**
-据 TechRadar 报道，由于 Siri Recaps 功能，Apple Watch 会在你一天的活动过程中持续收听，苹果可能因此面临类似 Meta 眼镜遭遇过的隐私质疑。
+一篇研究文章指出，AI 工具在科研中的使用增加，正在改变研究者的协作方式。文章用“Waymo 效应”类比自动驾驶带来的行为变化，讨论 AI 如何让研究者更依赖算法而不是彼此交流。
 
 **为什么值得看：**
-设备到底在听什么、什么时候在听，是数字生活里最敏感的问题之一。苹果如果处理不好，反弹可能很快。
+当研究者越来越多地让 AI 代劳一部分思考，科研中的“互相信任”和“相互验证”可能会被重新定义。这种变化很慢，但值得提前意识到。
 
 **值得程度：**
 👀 值得留意
 
 **分类：**
-科技
+AI
 
-**来源：** https://www.techradar.com/health-fitness/smartwatches/thanks-to-siri-recaps-your-apple-watch-is-always-listening-as-you-go-about-your-day-but-apple-may-be-risking-a-meta-glasses-style-backlash
-
----
-
-### 索尼官网被整理出大量“玩家拥有数字游戏”表述
-
-**发生了什么：**
-一个消费者权益 Wiki 汇总了索尼官网多处把数字游戏描述为玩家“拥有”的引用，这些内容与 PlayStation 数字游戏所有权诉讼有关。
-
-**为什么值得看：**
-数字商店都在说“购买”，服务条款却不承认“拥有”。这个矛盾正在变成实际的法律问题，直接影响所有买数字版游戏的玩家。
-
-**值得程度：**
-👀 值得留意
-
-**分类：**
-游戏
-
-**来源：** https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit
+**来源：** [Research Agenda](https://www.researchagenda.news/articles/the-waymo-effect.html)
 
 ---
 
 ## 今天真正值得关注的 3 件事
 
-### 1. Bending Spoons 13.55 亿美元收购 Miro
+**1. GPT-Live-1 开放 API**
+实时语音能力从 ChatGPT 的专属功能变成通用能力。接下来值得看的是：哪些应用会最先接入，使用成本是多少，以及 OpenAI 的竞品如何跟进。
 
-**为什么值得关注：** 大额交易说明协作工具依然是资本焦点。Miro 有大量用户，未来产品走向直接影响不少团队的工作方式。
+**2. Anthropic 的劳动力市场模型**
+不是一份普通的报告，而是 AI 公司首次公开建模自己产品对社会就业可能造成的冲击。值得持续观察的是这个模型的假设是否被事实验证，以及它会不会成为行业披露的新标准。
 
-**接下来值得观察什么：** Bending Spoons 收购后会不会调整 Miro 的免费策略、定价或产品定位。
-
-### 2. OpenAI 的数据处理争议
-
-**为什么值得关注：** 用户设置被反复更改，加上研究人员的公开指控，让 OpenAI 的数据伦理问题再次回到台面。
-
-**接下来值得观察什么：** OpenAI 是否会回应，以及是否有更独立的证据出现。
-
-### 3. “索尼玩家拥有数字游戏”成为法律材料
-
-**为什么值得关注：** “买数字版到底算不算拥有”正在成为游戏行业消费者权利领域的焦点问题。
-
-**接下来值得观察什么：** 索尼是否会被迫修改官方表述，或调整数字商店的服务条款。
- <!-- SYNC TEST 2026-09-11 -->
+**3. 加州立法限制聊天机器人和青少年社交媒体**
+法律的执行细节还没有完全公布，但方向已经确定：AI 和平台产品不能再只按“增长优先”的逻辑设计。接下来值得关注的是平台如何调整默认设置，以及其他州是否会效仿。
