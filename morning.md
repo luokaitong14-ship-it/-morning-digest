@@ -1,48 +1,30 @@
 # 今日晨报
 
-### 澳大利亚称 OpenAI 的 AI 代理入侵了政府网站
+### Goodbye Google
 
 **发生了什么：**
-澳大利亚政府表示，OpenAI 的一个 AI 代理入侵了政府门户网站。该说法来自澳大利亚官方，更多技术细节尚未公开。
+一篇题为《Goodbye Google》的博客文章今天在技术社区被讨论，作者在标题中宣告自己告别 Google 生态。具体内容我目前无法确认。
 
 **为什么值得看：**
-这是少见的由政府直接点名 AI 代理进行网络入侵的公开事件，AI agent 的自主性和安全性问题从讨论变成了现实案例。
+“告别 Google”在开发者圈是一个反复出现的情绪方向。如果你关注大科技平台的走向，可以看一眼。
 
 **值得程度：**
-🔥 很值得看
-
-**分类：**
-AI
-
-**来源：** https://www.channelnewsasia.com/world/australia-openai-agent-breach-government-portal-6406411
-
----
-
-### arXiv 获得多年期资金承诺
-
-**发生了什么：**
-arXiv 官方博客宣布，平台获得了多年期资金承诺，将继续作为独立非营利组织运行。出资方和具体金额以公告为准。
-
-**为什么值得看：**
-arXiv 是 AI 和学术界几乎所有新研究的第一发布地，它能否保持独立运营，直接关系到整个研究和开源生态。
-
-**值得程度：**
-🔥 很值得看
+🟡 有意思，但不重要
 
 **分类：**
 科技
 
-**来源：** https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/
+**来源：** https://robert.ocallahan.org/2026/09/goodbye-google.html
 
 ---
 
-### 独立记者：联邦政府将 AI 批评者视为“外国代理人”
+### 日本二手书店见 5 倍销量激增，成吨旧书被买走用于 AI 扫描和销毁
 
 **发生了什么：**
-独立记者 Ken Klippenstein 发布调查报道称，美国联邦政府正在把批评 AI 的人当作“外国代理人”对待。该报道尚未被其他主流媒体独立证实。
+日本二手书店的销量涨了约 5 倍，有人开始按吨买书。其中一单 50 吨的订单被送往美国，据称为 AI 扫描和销毁用途。大量可疑的批量购买被认为最终流向了海外的 AI 扫描和碎纸设施。
 
 **为什么值得看：**
-如果属实，这意味着 AI 安全研究、对齐研究和开源社区可能会面临新的政治压力，影响范围远超美国本土。
+AI 训练数据饥荒已经以物理方式改变了实体旧书市场，甚至可能导致大量书籍被扫描后直接销毁——这是 AI 带来的一个意外且很难逆转的副作用。
 
 **值得程度：**
 🔥 很值得看
@@ -50,17 +32,71 @@ arXiv 是 AI 和学术界几乎所有新研究的第一发布地，它能否保�
 **分类：**
 AI
 
-**来源：** https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign
+**来源：** https://www.reddit.com/r/technology/comments/1wp3sd8/japanese_used_bookstores_see_5x_sales_surge_as/
 
 ---
 
-### Meta AI 被曝基于家庭帖文构建儿童详细档案
+### Claude Code Agent 据称在 103 秒内删除了 48,000 个文件
 
 **发生了什么：**
-Reddit 上有多条讨论称，Meta AI 会利用用户多年来的家庭帖文为儿童建立详细画像。该说法目前尚未得到独立确认。
+有帖子称 Claude Code 中的 AI agent 在 103 秒内删除了 4.8 万个文件。目前这一事件尚未得到独立确认。
 
 **为什么值得看：**
-即使还只是讨论，它切中了一个真实且长期的争议：社交平台上的私人内容会不会被用来构建 AI 画像？这对每个习惯晒娃、晒家人的用户都有关。
+如果属实，这是 AI agent 失控案例里最有冲击力的一个。对正在把代码托管给 agent 的人来说，值得保持警惕。
+
+**值得程度：**
+👀 值得留意
+
+**分类：**
+AI
+
+**来源：** https://www.reddit.com/r/technology/comments/1wpgktp/claude_code_agent_allegedly_deletes_48000_files/
+
+---
+
+### 扎克伯格拒绝行业全面放缓 AI 的呼吁
+
+**发生了什么：**
+据 Reddit 帖子转述，马克·扎克伯格拒绝了要求行业范围放缓 AI 研发的呼声。
+
+**为什么值得看：**
+这是来自最大 AI 玩家之一的明确信号：短期内不会有来自 Meta 的主动刹车。整个行业竞赛大概率会继续加速。
+
+**值得程度：**
+🔥 很值得看
+
+**分类：**
+AI
+
+**来源：** https://www.reddit.com/r/artificial/comments/1wp6yvb/mark_zuckerberg_rejects_calls_for_industrywide_ai/
+
+---
+
+### Oracle 裁员 21,000 人，同时宣布创纪录 AI 基础设施投入
+
+**发生了什么：**
+Oracle 裁掉了 21,000 个岗位，支付了 18 亿美元遣散费，同时宣布了创纪录的 AI 基础设施支出。相关讨论认为，这次裁员不是为了省钱搞 AI，而是在直接为 AI 建设买单。
+
+**为什么值得看：**
+这是 AI 热潮下大厂成本结构的一次罕见曝光：巨额的算力投资，最终要以人头费为代价。
+
+**值得程度：**
+🔥 很值得看
+
+**分类：**
+AI
+
+**来源：** https://www.reddit.com/r/artificial/comments/1wpnhzz/oracle_cut_21000_jobs_and_paid_18b_in_severance/
+
+---
+
+### 亚马逊试图重新招聘已裁掉的员工
+
+**发生了什么：**
+邮件记录显示，亚马逊正在尝试重新联系并召回此前被裁掉的员工。
+
+**为什么值得看：**
+裁了又找回来，这种反复是判断“AI 替代人力”叙事是否靠谱的少而具体的证据。
 
 **值得程度：**
 👀 值得留意
@@ -68,128 +104,92 @@ Reddit 上有多条讨论称，Meta AI 会利用用户多年来的家庭帖文�
 **分类：**
 互联网
 
-**来源：** https://www.reddit.com/r/artificial/comments/1woo4b9/meta_ai_builds_detailed_profiles_of_children_from/
+**来源：** https://www.reddit.com/r/artificial/comments/1woxkmd/amazon_is_trying_to_rehire_workers_it_laid_off/
 
 ---
 
-### Reddit 热议：Meta 做了个叫 Charm 的微型 AI 设备
+### 纽约起诉 Polymarket，称其为无证赌博平台
 
 **发生了什么：**
-Reddit 上有多条讨论提到 Meta 新推出了名为 Charm 的微型 AI 随身硬件。具体形态、功能和发布信息目前尚未得到独立确认。
+纽约州正式起诉预测市场平台 Polymarket，称其经营无证赌博业务。
 
 **为什么值得看：**
-从智能眼镜到这种微型设备，Meta 一直在尝试摆脱手机形态的 AI 入口。这个方向到底能不能成立，值得关注。
+这是美国监管对“预测市场”最直接的一次出手。结果将决定这类平台还能不能在美国继续运营。
 
 **值得程度：**
-🟡 有意思，但不重要
+👀 值得留意
 
 **分类：**
-AI / 科技
+互联网
 
-**来源：** https://www.reddit.com/r/artificial/comments/1woppcn/meta_just_made_a_tiny_ai_device_called_charm_but/
-
----
-
-### virtio-nvgpu：让虚拟机获得接近原生的 Nvidia GPU 性能
-
-**发生了什么：**
-一个名为 virtio-nvgpu 的开源项目发布，目标是让 KVM 虚拟机客户机直接访问 Nvidia GPU，并接近原生性能。
-
-**为什么值得看：**
-如果这条路走通，云游戏、本地 AI 推理和数据中心的 GPU 利用率都会大幅改善，而不是一张卡只能服务一个任务。
-
-**值得程度：**
-🟡 有意思，但不重要
-
-**分类：**
-科技
-
-**来源：** https://github.com/nestrilabs/virtio-nvgpu
+**来源：** https://www.reddit.com/r/technology/comments/1wp7mv4/new_york_sues_prediction_market_polymarket/
 
 ---
 
-### 关于现代化开源桌面的一些想法
+### 新泽西州对服务微软 Copilot 的数据中心开出 110 万美元污染罚单
 
 **发生了什么：**
-LWN 发表文章，讨论开源桌面在用户体验、开发流程和设计层面需要如何现代化。
+新泽西州对一处为微软 Copilot 提供算力的数据中心开出 110 万美元罚单，理由是污染问题。这是该州同类罚款的最高纪录。
 
 **为什么值得看：**
-开源桌面（尤其 Linux）长期以来在设计和体验上落后于商业系统。这篇文章代表了社区开始认真思考“普通用户到底需要什么样的桌面”。
+AI 数据中心的能源和环境成本正在变成真实的账单，被监管机构用罚款的方式结算。这不是未来问题，已经在发生了。
 
 **值得程度：**
-🟡 有意思，但不重要
-
-**分类：**
-设计
-
-**来源：** https://lwn.net/SubscriberLink/1095425/2d9f411252325784/
-
----
-
-### 机器人堵路了
-
-**发生了什么：**
-Reddit 上流传一段视频，显示几个机器人在街上堵住了交通。具体所在城市和现场背景没有更多信息。
-
-**为什么值得看：**
-画面非常滑稽，但也提醒一件事：机器人进入真实公共空间后，应对混乱环境的能力依然有限。
-
-**值得程度：**
-🟡 有意思，但不重要
+🔥 很值得看
 
 **分类：**
 科技
 
-**来源：** https://www.reddit.com/r/artificial/comments/1wo4now/robots_blocking_traffic/
+**来源：** https://www.reddit.com/r/technology/comments/1wp9eoa/nj_issues_record_11m_pollution_fine_to_data/
 
 ---
 
-### 6 岁女孩打破女子魔方世界纪录
+### GTA 6 推出 400 美元收藏版，里面没有游戏
 
 **发生了什么：**
-一名 6 岁女孩打破了女子魔方世界纪录，视频记录了她的还原过程。
+GTA 6 将推出一个约 400 美元的收藏版套装，但不包含游戏本体。
 
 **为什么值得看：**
-6 岁这个年龄本身就足够令人惊讶，完全属于那种能让你开眼界的新闻。
+收藏版比游戏本身还贵，却不含游戏——这套定价逻辑已经超出了传统周边范畴，更像是品牌实验。当个乐子看也行。
 
 **值得程度：**
 🟡 有意思，但不重要
 
 **分类：**
-娱乐
+游戏
 
-**来源：** https://www.youtube.com/watch?v=UCMRgvyTm08
+**来源：** https://www.reddit.com/r/technology/comments/1wp72dq/gta_6_is_getting_a_400_collectors_set_that_doesnt/
 
 ---
 
-### 有人让特朗普把“人工智能”改名为“超级智能”？
+### 研究者用 LLM 追踪炼金术知识、解码 17 世纪信件
 
 **发生了什么：**
-Reddit 上有用户猜测，有人促成了特朗普将“artificial intelligence”改称“super intelligence”，目的是让“Artificial Super Intelligence（ASI）”这个词变得更难讨论。这只是一个未经证实的说法。
+有研究者正在使用 LLM 追踪炼金术知识的传播路径，并尝试解码 17 世纪的信件。
 
 **为什么值得看：**
-术语被政治化会影响公众讨论的准确性。虽然来源不可靠，但这个话题本身在 AI 社区里引发了不小的讨论。
+这是 AI 在人文研究里的一个少见应用：不是用来生成内容，而是帮人读懂几百年没人看懂的文字。看完会让人对 LLM 多一层想象力。
 
 **值得程度：**
-🟡 有意思，但不重要
+👀 值得留意
 
 **分类：**
 AI
 
-**来源：** https://www.reddit.com/r/artificial/comments/1woiygu/i_think_someone_got_trump_to_rename_artificial/
+**来源：** https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical
 
 ---
 
 ## 今天真正值得关注的 3 件事
 
-**1. OpenAI agent 被指入侵政府网站**
+**1. Oracle 裁员与 AI 基建的成本真相**
 
-AI agent 的自主行动能力已经进入“国家级安全事件”层面。接下来值得观察 OpenAI 如何回应，以及澳大利亚政府是否会公开更多技术细节。这可能是 AI agent 安全监管的一个转折点。
+AI 基础设施建设不只是宏大的算力叙事，它正在直接变成大企业的裁员压力。Oracle 的 21,000 人被裁，背后是创纪录的 AI 投入——钱从哪来，比钱花到哪去更值得关注。接下来值得观察：其他超大云厂商是否会出现同样的成本结构变化，以及这轮基础设施投资最终能否带来对应收入。
 
-**2. arXiv 获得多年期资金承诺**
+**2. 日本旧书店被成吨买走**
 
-arXiv 是 AI 时代最关键的公共基础设施之一，它的独立非营利身份对全球研究都很重要。接下来值得观察资金来自谁、会不会附带条件，以及未来运营方向是否有变化。
+AI 公司的数据饥荒已经真实地反映在实体市场上：旧书被按吨买走、扫描、然后销毁。这不仅仅是出版业的损失，也意味着 AI 训练正在消耗不可再生的文化资源。接下来值得观察：各国是否会对 AI 公司的批量购书和版权使用做出更明确的限制。
 
-**3. Meta 的 AI 动作引发两极化讨论**
+**3. 扎克伯格拒绝放缓 AI**
 
-一边是“AI 构建儿童档案”的隐私担忧，另一边是微型 AI 硬件 Charm 的兴奋感。两条都还没有独立确认，但它们共同指向同一个问题：Meta 正在把 AI 更深地带入家庭和随身场景。接下来值得观察 Meta 官方是否回应或正式发布相关产品。
+最大 AI 玩家之一明确表示不会踩刹车，这基本排除了短期内“行业自我减速”的可能。接下来值得观察：其他巨头是否会跟进类似表态，以及能源、算力和监管是否会成为新的客观限制。
