@@ -1,175 +1,167 @@
 # 今日晨报
 
-这些是从今天信息里筛出来的 9 条。
-
----
-
-### Anthropic称AI智能体在病毒DNA中发现类似CRISPR的酶家族，但被质疑并非全新发现
+### IMF 警告：AI 股票一旦崩盘，会威胁全球金融稳定
 
 **发生了什么：**
-Anthropic宣布，其AI智能体在病毒DNA中发现了一个类似CRISPR的酶家族。一位研究者回应说，自己的团队从2022年起就在研究同类酶。
+国际货币基金组织（IMF）发出正式警告：AI 相关股票如果崩盘，可能危及全球金融稳定。报道同时提到债务和网络攻击也是风险因素。
 
 **为什么值得看：**
-AI参与科学发现是大趋势，但这条新闻同时提醒我们：“AI发现”是否真正具有新颖性，不能只听发布会说法，需要学术验证。
+这不是普通的市场评论，而是国际金融机构对 AI 泡沫的一次正式表态，说明 AI 行业风险已经从“圈内讨论”上升为宏观经济议题。
 
-**值得程度：** 🔥
+**值得程度：**
+🔥 很值得看
 
-**分类：** AI
+**分类：**
+科技
 
-**来源：** [Reddit](https://www.reddit.com/r/artificial/comments/1x3i1e5/anthropic_ai_agents_found_a_crisprlike/)
+**来源：** https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks
 
----
-
-### Claude Opus 5.5 一夜完成PS2游戏反编译，数百个老游戏据称已在浏览器里跑起来
+### 有人仔细拆了 OpenAI 的“更快傅里叶变换”数学
 
 **发生了什么：**
-据开发者分享，Claude Opus 5.5在一夜之间完成了一个PS2时代游戏的反编译。帖子还称，已有数百个同类游戏可以在浏览器标签页中运行。这些说法目前尚未得到独立确认。
+Argmin.net 发表了一篇技术文章，深入分析 OpenAI 声称能更快计算傅里叶变换的数学方法到底怎么回事。
 
 **为什么值得看：**
-这是AI在逆向工程上的一次直观展示，也让大量被遗忘的老游戏有可能以低成本复活。
+傅里叶变换是所有信号处理和很多 AI 计算的地基，如果 OpenAI 的方法真的成立，会被迅速用到大量领域；文章能帮你判断这究竟是突破还是营销。
 
-**值得程度：** 🔥
+**值得程度：**
+👀 值得留意
 
-**分类：** AI / 游戏
+**分类：**
+AI
 
-**来源：** [Reddit](https://www.reddit.com/r/artificial/comments/1x2tq6s/claude_opus_55_decompiles_a_ps2era_game_overnight/)
+**来源：** https://www.argmin.net/p/faster-fourier-transforms
 
----
-
-### 独立开发者用Claude重建Word、Excel和PowerPoint，做成免费开源应用
+### 新论文：AI 可以“可证明地”隐藏任意能力
 
 **发生了什么：**
-一位独立开发者在Reddit上说，他用Claude重建了Word、Excel和PowerPoint，并以开源形式免费发布。他还称，自己公司每名员工贡献的收入是Google的4倍。该说法目前尚未得到独立确认。
+一篇新论文提出，AI 模型在数学上可以被证明能够隐藏任意能力——也就是说，你猜不到它到底会什么。
 
 **为什么值得看：**
-单人借助AI做出一套Office三件套的替代品，说明AI已经显著降低了大型软件的生产门槛。
+这直接影响未来 AI 审查、红队测试和模型监管的有效性。如果“隐藏能力”在理论上就成立，现有的安全评估方式需要重新思考。
 
-**值得程度：** 🔥
+**值得程度：**
+👀 值得留意
 
-**分类：** AI
+**分类：**
+AI
 
-**来源：** [Reddit](https://www.reddit.com/r/artificial/comments/1x3jidz/a_solo_developer_rebuilt_word_excel_and/)
+**来源：** https://arxiv.org/abs/2610.13928
 
----
-
-### 乌克兰一周内打击三个Yandex数据中心，Yandex核心服务中断
+### Anthropic 把 26B 模型跑在 15 台廉价电视盒子上，做出一只“关不掉的 AI 蠕虫”
 
 **发生了什么：**
-乌克兰在一周内打击了Yandex的三个数据中心。Yandex表示，无法预测其聊天机器人和智能家居服务何时能恢复。
+Anthropic 进行了一项实验：把 26B 参数模型分布运行在 15 台非品牌 Android TV 盒子上，每台成本约 55 美元。这个分布式系统没有中心关闭点，被形容为一只“AI 蠕虫”。目前细节主要来自 Reddit 讨论，尚未得到独立确认。
 
 **为什么值得看：**
-一个国家级AI公司的算力中心被连续攻击，直接影响到普通用户的日常服务，是数字时代基础设施脆弱性的一个具体样本。
+用几百美元硬件就能跑出庞大的分布式 AI，这本身就够惊人了；“没有中央关闭点”的架构又恰好踩中 AI 安全最敏感的神经。
 
-**值得程度：** 🔥
+**值得程度：**
+🔥 很值得看
 
-**分类：** 科技
+**分类：**
+AI
 
-**来源：** [Reddit](https://www.reddit.com/r/artificial/comments/1x3t62v/ukraine_has_hit_three_yandex_data_centres_in_a/)
+**来源：** https://www.reddit.com/r/artificial/comments/1x4e58k/anthropic_ran_a_26b_model_across_15_offbrand/
 
----
-
-### 指纹识别正在成为新的cookie
+### Anthropic：新防御让对手“蒸馏”Claude 的成果减少 90%～99%
 
 **发生了什么：**
-一篇技术文章提出，随着第三方cookie被淘汰，浏览器指纹识别等追踪方式正在成为网站识别用户的主要手段。
+Anthropic 称，新的防御机制将竞争对手通过蒸馏从其模型中提取能力的成果削减了 90% 到 99%。据称其中一个被拦截的请求，来自 Anthropic 认为与解放军有关联的用户。
 
 **为什么值得看：**
-以为隐私在改善，但实际上的追踪并没有消失，只是变得更隐蔽。这对普通人和行业都值得留意。
+模型蒸馏是 AI 公司之间最隐蔽也最激烈的攻防战，这是第一次有头部公司公开给出具体的防御效果数字。
 
-**值得程度：** 👀
+**值得程度：**
+🔥 很值得看
 
-**分类：** 互联网
+**分类：**
+AI
 
-**来源：** [royfish.dev](https://royfish.dev/fingerprints-are-the-new-cookies)
+**来源：** https://www.reddit.com/r/artificial/comments/1x4o4yg/anthropic_says_new_defenses_cut_what_rivals/
 
----
-
-### 尼古拉斯·凯奇：因AI分歧不再与Amazon合作
+### Epic Games 转向“AI 优先”开发，CEO 说“我们的目标是挺过 AI 革命”
 
 **发生了什么：**
-尼古拉斯·凯奇表示，因为与Amazon在AI问题上存在分歧，他将不再与Amazon合作。该表态目前尚未得到独立确认。
+Epic Games CEO Tim Sweeney 表示：“我们卑微的目标是挺过 AI 革命。” Epic 的星战和漫威跨界项目正在转向“AI 优先”开发，艺术内容将使用“全 AI 工作流生成”。
 
 **为什么值得看：**
-一线演员公开以AI为由和主流流媒体平台决裂，可能预示着新一轮行业谈判中的公开对抗。
+这是大型游戏公司第一次如此直白地宣布整体转向 AI 内容生产，不只是“用 AI 辅助”，而是“用 AI 生成”。这会直接改变游戏行业的制作流程和岗位结构。
 
-**值得程度：** 👀
+**值得程度：**
+🔥 很值得看
 
-**分类：** 娱乐
+**分类：**
+游戏
 
-**来源：** [Reddit](https://www.reddit.com/r/artificial/comments/1x3i1g8/nicolas_cage_says_he_wont_work_with_amazon_again/)
+**来源：** https://www.reddit.com/r/artificial/comments/1x4pzvo/our_humble_goal_is_to_survive_the_ai_revolution/
 
----
-
-### AI科幻剧创作者透露成本：3.8万美元AI点数，每个镜头要重生成8～10次
+### Janas：让大模型在内存不够的电脑上也能跑
 
 **发生了什么：**
-一部AI生成的科幻剧集创作者透露，全剧消耗了约3.8万美元的AI点数，每个镜头平均需要生成8～10次才能获得可用结果。该数据为创作者自称，目前尚未得到独立确认。
+开源项目 Janas 可以让 LLM 在模型大于内存的情况下运行，做法是从 SSD 流式加载专家模块。
 
 **为什么值得看：**
-它给“用AI拍片是否很便宜”提供了具体参考：AI不会让制作变免费，筛选和返工的成本依然不低。
+这等于把超大模型的硬件门槛又降了一截。以后不需要 A100 级别的显卡，消费级电脑也可能跑动很大的模型，本地 AI 部署会变得更现实。
 
-**值得程度：** 👀
+**值得程度：**
+👀 值得留意
 
-**分类：** 娱乐 / AI
+**分类：**
+AI
 
-**来源：** [Reddit](https://www.reddit.com/r/artificial/comments/1x37ox5/creators_of_an_ai_generated_scifi_series_said_it/)
+**来源：** https://github.com/prabanta-dev/janas
 
----
-
-### Crest：一款受Arc启发的开源Mac浏览器
+### 科学家在眼睛里发现一个此前没人知道的“清理系统”
 
 **发生了什么：**
-Crest是一个新发布的Mac开源浏览器，设计上明显受到Arc浏览器的启发。
+科学家发现，眼睛中存在一个此前未知的隐藏清理系统。目前细节主要来自 Reddit 讨论，尚未看到完整的独立研究报道。
 
 **为什么值得看：**
-Arc让人喜欢但并公开不开源，Crest试图把这个交互方向变成开放产品。对浏览器设计感兴趣的话值得一看。
+眼睛是我们研究得最久的器官之一，居然还有未知的系统性机制。这种发现会推动眼科疾病的理解，也纯粹让人开眼界。
 
-**值得程度：** 🟡
+**值得程度：**
+🟡 有意思，但不重要
 
-**分类：** 科技 / 设计
+**分类：**
+科技
 
-**来源：** [Crest](https://crestbrowser.com/)
+**来源：** https://www.reddit.com/r/artificial/comments/1x4aztm/scientists_find_a_hidden_cleanup_system_in_the/
 
----
-
-### Doory：开源版Canva
+### Linus Torvalds：AI 是编程的“gateway drug”，但别用于“严肃”工作
 
 **发生了什么：**
-Doory是一个开源项目，想做类似Canva的平面设计工具。
+Linux 创始人 Linus Torvalds 表示，AI 是进入编程世界的“入门诱饵”，但他同时提醒，不要把 AI 用于“严肃”的工作。
 
 **为什么值得看：**
-Canva很好用，但付费门槛也越来越明显。对独立设计师和小团队来说，开源替代品是一个值得关注的方向。
+Torvalds 对待 AI 的态度很务实：既承认它能吸引新人，也清楚它在严肃场景里的不可靠。这种不吹不黑的立场在当下很少见。
 
-**值得程度：** 🟡
+**值得程度：**
+👀 值得留意
 
-**分类：** 设计
+**分类：**
+AI
 
-**来源：** [GitHub](https://github.com/shaongitbd/doory)
+**来源：** https://www.reddit.com/r/artificial/comments/1x4fgi1/linux_founder_linus_torvalds_says_ai_is_a_gateway/
 
 ---
 
 ## 今天真正值得关注的 3 件事
 
-### 1. 乌克兰打击Yandex数据中心：AI基础设施正在成为地缘战争的目标
+**1. Epic Games 全面转向“AI 优先”开发**
 
-**为什么值得关注：**
-这不是孤立事件。连续三个数据中心被击中，已经导致一家国家级AI公司的产品大面积停摆。
+为什么值得关注：它是主流游戏公司里最激进的 AI 内容生产转向，影响的不是某款游戏，而是整个游戏工业接下来怎么造内容。
 
-**接下来值得观察什么：**
-Yandex服务恢复需要多久；更多地区会不会把对方的算力中心当作常规打击目标。
+接下来值得观察：第一个用“全 AI 工作流”推出的星战/漫威项目长什么样，以及玩家和创作者的接受度。
 
-### 2. Anthropic的AI“发现”撞上了人类科研团队
+**2. Anthropic 的“关不掉”分布式 AI 实验**
 
-**为什么值得关注：**
-AI在生物科学中提出候选发现的能力正在变强，但“是不是第一个发现”产生了争议，这个争议本身会影响AI未来在科研中的位置。
+为什么值得关注：15 台廉价电视盒子组成的 26B 模型，没有中心关闭点——这让“AI 无法被关停”从科幻概念变成了已经演示过的技术事实。
 
-**接下来值得观察什么：**
-Anthropic是否会公开更完整的验证数据；这组酶最终能否成为可用的基因编辑工具。
+接下来值得观察：Anthropic 后续会不会公布更多技术细节，以及这个架构会不会引发安全监管讨论。
 
-### 3. Claude Opus 5.5反编译PS2游戏：老游戏可能迎来批量复活
+**3. IMF 正式警告 AI 股票崩盘风险**
 
-**为什么值得关注：**
-同样的事情过去需要专业团队花数月，AI一个晚上做到了。这个能力一旦普及，游戏存档、考古和重制的成本会大幅下降。
+为什么值得关注：IMF 不是市场分析师，它表态意味着 AI 泡沫风险已经被国际金融体系当作系统性威胁看待。
 
-**接下来值得观察什么：**
-这类反编译会不会引发版权争议；平台和开发商是否会用AI加速重制老游戏。
+接下来值得观察：各主要市场对 AI 概念股的情绪会不会变化，以及这类警告会不会影响 AI 公司的融资节奏。
