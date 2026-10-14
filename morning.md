@@ -1,167 +1,203 @@
 # 今日晨报
 
-### IMF 警告：AI 股票一旦崩盘，会威胁全球金融稳定
+## 今日晨报
+
+### OpenAI工程师涉嫌在管理层会议室安装窃听装置被捕
 
 **发生了什么：**
-国际货币基金组织（IMF）发出正式警告：AI 相关股票如果崩盘，可能危及全球金融稳定。报道同时提到债务和网络攻击也是风险因素。
+据旧金山标准报报道，一名OpenAI工程师因涉嫌在管理层会议室安装窃听装置被捕。目前报道未披露具体指控细节。
 
 **为什么值得看：**
-这不是普通的市场评论，而是国际金融机构对 AI 泡沫的一次正式表态，说明 AI 行业风险已经从“圈内讨论”上升为宏观经济议题。
+这是顶级AI公司内部安全与信任的严重事件，在AI行业里非常罕见，直接影响外界对OpenAI内部治理的信任。
 
 **值得程度：**
 🔥 很值得看
 
 **分类：**
-科技
+AI / 科技
 
-**来源：** https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks
+**来源：** https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/
 
-### 有人仔细拆了 OpenAI 的“更快傅里叶变换”数学
+---
+
+### Character.AI申请破产，部分资产以2000万美元卖给迪士尼
 
 **发生了什么：**
-Argmin.net 发表了一篇技术文章，深入分析 OpenAI 声称能更快计算傅里叶变换的数学方法到底怎么回事。
+据报道，AI陪伴应用Character.AI已申请破产，并将部分资产出售给迪士尼，交易金额为2000万美元。
 
 **为什么值得看：**
-傅里叶变换是所有信号处理和很多 AI 计算的地基，如果 OpenAI 的方法真的成立，会被迅速用到大量领域；文章能帮你判断这究竟是突破还是营销。
+一家曾被资本热捧的AI社交明星公司快速陨落，而迪士尼接盘其资产，意味着它的技术或IP可能进入娱乐生态，行业风向值得关注。
+
+**值得程度：**
+🔥 很值得看
+
+**分类：**
+AI / 互联网
+
+**来源：** https://www.reddit.com/r/artificial/comments/1x4xfop/characterai_files_for_bankruptcy_to_sell_some/
+
+---
+
+### OpenAI的Navier-Stokes证明受到质疑
+
+**发生了什么：**
+一个Reddit讨论帖指出，OpenAI此前公布的Navier-Stokes方程证明与人们先前理解的不一致，实际意义可能没有宣传的那么大。目前这仍是讨论帖，尚未得到独立确认。
+
+**为什么值得看：**
+如果这一质疑成立，OpenAI在数学物理领域的重大成果将大打折扣，对其公信力影响很大；但当前细节尚不明确，需要谨慎看待。
+
+**值得程度：**
+🔥 很值得看
+
+**分类：**
+AI / 科技
+
+**来源：** https://www.reddit.com/r/artificial/comments/1x530mt/openais_blockbuster_navierstokes_proof_isnt_what/
+
+---
+
+### Anthropic：编码不再是瓶颈，monorepo单日合并超3万次
+
+**发生了什么：**
+Anthropic表示，编码已不再是瓶颈，其大型代码仓库（monorepo）单日合并请求次数超过3万次。该说法来自Reddit相关帖子。
+
+**为什么值得看：**
+如果属实，说明AI辅助开发已经进入大规模并行阶段，软件开发流程将被结构性改变，而不只是“写代码更快”。
 
 **值得程度：**
 👀 值得留意
 
 **分类：**
-AI
+AI / 科技
 
-**来源：** https://www.argmin.net/p/faster-fourier-transforms
+**来源：** https://www.reddit.com/r/artificial/comments/1x5htw8/anthropic_says_coding_is_no_longer_the_bottleneck/
 
-### 新论文：AI 可以“可证明地”隐藏任意能力
+---
+
+### Grace Hopper Celebration 宣布取消
 
 **发生了什么：**
-一篇新论文提出，AI 模型在数学上可以被证明能够隐藏任意能力——也就是说，你猜不到它到底会什么。
+AnitaB.org发布新闻稿，宣布取消Grace Hopper Celebration（GHC）大会。
 
 **为什么值得看：**
-这直接影响未来 AI 审查、红队测试和模型监管的有效性。如果“隐藏能力”在理论上就成立，现有的安全评估方式需要重新思考。
+GHC是全球最大的女性科技从业者大会，它的取消不仅影响一场活动，也反映出科技行业多元社区在当前环境下面临的现实压力。
 
 **值得程度：**
 👀 值得留意
 
 **分类：**
-AI
+科技 / 互联网
 
-**来源：** https://arxiv.org/abs/2610.13928
+**来源：** https://anitab.org/press-release
 
-### Anthropic 把 26B 模型跑在 15 台廉价电视盒子上，做出一只“关不掉的 AI 蠕虫”
+---
+
+### Netflix重金投资Ben Affleck的AI公司，但《Animals》后可能开始怀疑
 
 **发生了什么：**
-Anthropic 进行了一项实验：把 26B 参数模型分布运行在 15 台非品牌 Android TV 盒子上，每台成本约 55 美元。这个分布式系统没有中心关闭点，被形容为一只“AI 蠕虫”。目前细节主要来自 Reddit 讨论，尚未得到独立确认。
+有Reddit讨论指出，Netflix此前重金投资了Ben Affleck的AI公司；而在该公司相关作品《Animals》之后，Netflix或许开始怀疑这笔投资的价值。
 
 **为什么值得看：**
-用几百美元硬件就能跑出庞大的分布式 AI，这本身就够惊人了；“没有中央关闭点”的架构又恰好踩中 AI 安全最敏感的神经。
+这是好莱坞与AI创业公司合作的典型样本，能让人们看到娱乐产业在AI投入上的期待与真实效果之间的落差。
+
+**值得程度：**
+👀 值得留意
+
+**分类：**
+娱乐 / AI
+
+**来源：** https://www.reddit.com/r/artificial/comments/1x4wcl5/netflix_spent_big_on_ben_afflecks_ai_company/
+
+---
+
+### Epic Games CEO：目标是在AI革命中生存，转向“AI优先”开发
+
+**发生了什么：**
+Epic Games CEO Tim Sweeney表示，其“目标是在AI革命中生存”，并透露《星球大战》与《漫威》联动项目将转向“AI优先”开发，美术内容将使用“完整AI工作流”生成。
+
+**为什么值得看：**
+头部游戏引擎公司公开把AI生成作为核心生产方式，这可能成为游戏行业从“AI辅助”到“AI主导”转变的标志性节点。
 
 **值得程度：**
 🔥 很值得看
 
 **分类：**
-AI
-
-**来源：** https://www.reddit.com/r/artificial/comments/1x4e58k/anthropic_ran_a_26b_model_across_15_offbrand/
-
-### Anthropic：新防御让对手“蒸馏”Claude 的成果减少 90%～99%
-
-**发生了什么：**
-Anthropic 称，新的防御机制将竞争对手通过蒸馏从其模型中提取能力的成果削减了 90% 到 99%。据称其中一个被拦截的请求，来自 Anthropic 认为与解放军有关联的用户。
-
-**为什么值得看：**
-模型蒸馏是 AI 公司之间最隐蔽也最激烈的攻防战，这是第一次有头部公司公开给出具体的防御效果数字。
-
-**值得程度：**
-🔥 很值得看
-
-**分类：**
-AI
-
-**来源：** https://www.reddit.com/r/artificial/comments/1x4o4yg/anthropic_says_new_defenses_cut_what_rivals/
-
-### Epic Games 转向“AI 优先”开发，CEO 说“我们的目标是挺过 AI 革命”
-
-**发生了什么：**
-Epic Games CEO Tim Sweeney 表示：“我们卑微的目标是挺过 AI 革命。” Epic 的星战和漫威跨界项目正在转向“AI 优先”开发，艺术内容将使用“全 AI 工作流生成”。
-
-**为什么值得看：**
-这是大型游戏公司第一次如此直白地宣布整体转向 AI 内容生产，不只是“用 AI 辅助”，而是“用 AI 生成”。这会直接改变游戏行业的制作流程和岗位结构。
-
-**值得程度：**
-🔥 很值得看
-
-**分类：**
-游戏
+游戏 / AI
 
 **来源：** https://www.reddit.com/r/artificial/comments/1x4pzvo/our_humble_goal_is_to_survive_the_ai_revolution/
 
-### Janas：让大模型在内存不够的电脑上也能跑
+---
+
+### 警方用AI从一张室内照片定位住所，甚至洗衣机照片就够
 
 **发生了什么：**
-开源项目 Janas 可以让 LLM 在模型大于内存的情况下运行，做法是从 SSD 流式加载专家模块。
+有帖子称，警方正在使用AI根据一张室内照片定位住所，甚至一张洗衣机照片就足以实现定位。
 
 **为什么值得看：**
-这等于把超大模型的硬件门槛又降了一截。以后不需要 A100 级别的显卡，消费级电脑也可能跑动很大的模型，本地 AI 部署会变得更现实。
+这是AI在执法领域的极端应用，直接挑战隐私边界和取证合法性，对数字时代的个人安全有深远影响。
 
 **值得程度：**
-👀 值得留意
+🔥 很值得看
 
 **分类：**
-AI
+科技 / 互联网
 
-**来源：** https://github.com/prabanta-dev/janas
+**来源：** https://www.reddit.com/r/artificial/comments/1x4v8vl/police_are_using_ai_to_locate_homes_from_a_single/
 
-### 科学家在眼睛里发现一个此前没人知道的“清理系统”
+---
+
+### “注意力”是智能的本质吗？
 
 **发生了什么：**
-科学家发现，眼睛中存在一个此前未知的隐藏清理系统。目前细节主要来自 Reddit 讨论，尚未看到完整的独立研究报道。
+Quanta Magazine发表了一篇深度文章，探讨“注意力是否为智能的本质”这一理论问题。
 
 **为什么值得看：**
-眼睛是我们研究得最久的器官之一，居然还有未知的系统性机制。这种发现会推动眼科疾病的理解，也纯粹让人开眼界。
+从认知科学到Transformer架构，“注意力”确实是当前AI的核心概念。这篇文章能帮助你从底层理解为什么AI会发展成今天这个样子。
 
 **值得程度：**
 🟡 有意思，但不重要
 
 **分类：**
-科技
-
-**来源：** https://www.reddit.com/r/artificial/comments/1x4aztm/scientists_find_a_hidden_cleanup_system_in_the/
-
-### Linus Torvalds：AI 是编程的“gateway drug”，但别用于“严肃”工作
-
-**发生了什么：**
-Linux 创始人 Linus Torvalds 表示，AI 是进入编程世界的“入门诱饵”，但他同时提醒，不要把 AI 用于“严肃”的工作。
-
-**为什么值得看：**
-Torvalds 对待 AI 的态度很务实：既承认它能吸引新人，也清楚它在严肃场景里的不可靠。这种不吹不黑的立场在当下很少见。
-
-**值得程度：**
-👀 值得留意
-
-**分类：**
 AI
 
-**来源：** https://www.reddit.com/r/artificial/comments/1x4fgi1/linux_founder_linus_torvalds_says_ai_is_a_gateway/
+**来源：** https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/
+
+---
+
+### 框架还重要吗？
+
+**发生了什么：**
+一篇博客文章讨论了现代开发中“框架是否还重要”的问题，重新审视工具选择的底层逻辑。
+
+**为什么值得看：**
+对于关注设计、开发流程的人来说，这种思考能帮你在不断变化的技术栈中保持更清晰的判断力。
+
+**值得程度：**
+🟡 有意思，但不重要
+
+**分类：**
+科技 / 设计
+
+**来源：** https://brookslybrand.com/posts/do-frameworks-matter-anymore/
 
 ---
 
 ## 今天真正值得关注的 3 件事
 
-**1. Epic Games 全面转向“AI 优先”开发**
+**1. OpenAI工程师被捕事件**
 
-为什么值得关注：它是主流游戏公司里最激进的 AI 内容生产转向，影响的不是某款游戏，而是整个游戏工业接下来怎么造内容。
+为什么值得关注：这不是普通的内鬼问题，而是涉及管理层会议室窃听的严重安全事件。对一家以“安全”为核心卖点的AI公司而言，这是对内部信任的一次重大打击。
 
-接下来值得观察：第一个用“全 AI 工作流”推出的星战/漫威项目长什么样，以及玩家和创作者的接受度。
+接下来值得观察什么：OpenAI会如何回应？事件是否牵涉更复杂的商业或技术机密问题，以及后续是否会引发对AI公司内部治理的进一步调查。
 
-**2. Anthropic 的“关不掉”分布式 AI 实验**
+**2. Character.AI破产**
 
-为什么值得关注：15 台廉价电视盒子组成的 26B 模型，没有中心关闭点——这让“AI 无法被关停”从科幻概念变成了已经演示过的技术事实。
+为什么值得关注：它曾经是AI陪伴赛道的代表性公司，如今以极低价格把资产卖给迪士尼，说明了AI社交产品在商业模式上的脆弱性，也为“AI娱乐内容”未来的走向提供了新线索。
 
-接下来值得观察：Anthropic 后续会不会公布更多技术细节，以及这个架构会不会引发安全监管讨论。
+接下来值得观察什么：迪士尼拿到这些资产后会用在哪里？Character.AI的用户和数据会有什么变化？同类AI陪伴产品是否会受到连锁影响？
 
-**3. IMF 正式警告 AI 股票崩盘风险**
+**3. Anthropic：单日3万次合并**
 
-为什么值得关注：IMF 不是市场分析师，它表态意味着 AI 泡沫风险已经被国际金融体系当作系统性威胁看待。
+为什么值得关注：如果Anthropic的宣称成立，意味着AI编码已不再只是“辅助程序员”，而是可以大规模并行处理工程任务的“基础设施”级能力。软件开发的速度和团队规模逻辑将被重新定义。
 
-接下来值得观察：各主要市场对 AI 概念股的情绪会不会变化，以及这类警告会不会影响 AI 公司的融资节奏。
+接下来值得观察什么：其他大厂是否也会公布类似数据？这种效率提升是否会影响AI公司的人员结构、产品迭代速度，以及整个软件行业的竞争节奏。
