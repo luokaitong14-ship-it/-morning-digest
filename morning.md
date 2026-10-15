@@ -1,203 +1,156 @@
 # 今日晨报
 
-## 今日晨报
-
-### OpenAI工程师涉嫌在管理层会议室安装窃听装置被捕
+### LFM2.5-24B-A2B：为端侧 Agent 打造的新模型
 
 **发生了什么：**
-据旧金山标准报报道，一名OpenAI工程师因涉嫌在管理层会议室安装窃听装置被捕。目前报道未披露具体指控细节。
+Liquid AI 发布了 LFM2.5-24B-A2B，一个面向设备端 AI Agent 的高效模型，主打低延迟和本地运行能力。
 
 **为什么值得看：**
-这是顶级AI公司内部安全与信任的严重事件，在AI行业里非常罕见，直接影响外界对OpenAI内部治理的信任。
+端侧运行是 AI 落地的关键方向，这个模型如果真能做到又快又小，可能会让更多隐私敏感或离线的 AI 应用成为现实。
 
 **值得程度：**
 🔥 很值得看
 
 **分类：**
-AI / 科技
+AI
 
-**来源：** https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/
+**来源：** https://www.liquid.ai/blog/lfm2-5-24b-a2b
 
 ---
 
-### Character.AI申请破产，部分资产以2000万美元卖给迪士尼
+### OpenAI 的纳维-斯托克斯证明引发争议
 
 **发生了什么：**
-据报道，AI陪伴应用Character.AI已申请破产，并将部分资产出售给迪士尼，交易金额为2000万美元。
+社交平台上出现讨论，指出 OpenAI 那个曾被视为突破的纳维-斯托克斯方程证明，可能和最初公开时的认知并不一样。
 
 **为什么值得看：**
-一家曾被资本热捧的AI社交明星公司快速陨落，而迪士尼接盘其资产，意味着它的技术或IP可能进入娱乐生态，行业风向值得关注。
+这关系到 AI 在数学和科学领域的可信度。如果证明确实有问题，会影响人们对 AI 发现真实性的判断；如果只是误解，也需要澄清。
 
 **值得程度：**
 🔥 很值得看
 
 **分类：**
-AI / 互联网
-
-**来源：** https://www.reddit.com/r/artificial/comments/1x4xfop/characterai_files_for_bankruptcy_to_sell_some/
-
----
-
-### OpenAI的Navier-Stokes证明受到质疑
-
-**发生了什么：**
-一个Reddit讨论帖指出，OpenAI此前公布的Navier-Stokes方程证明与人们先前理解的不一致，实际意义可能没有宣传的那么大。目前这仍是讨论帖，尚未得到独立确认。
-
-**为什么值得看：**
-如果这一质疑成立，OpenAI在数学物理领域的重大成果将大打折扣，对其公信力影响很大；但当前细节尚不明确，需要谨慎看待。
-
-**值得程度：**
-🔥 很值得看
-
-**分类：**
-AI / 科技
+AI
 
 **来源：** https://www.reddit.com/r/artificial/comments/1x530mt/openais_blockbuster_navierstokes_proof_isnt_what/
 
 ---
 
-### Anthropic：编码不再是瓶颈，monorepo单日合并超3万次
+### Gemini 4 Argon 制作了一款游戏？
 
 **发生了什么：**
-Anthropic表示，编码已不再是瓶颈，其大型代码仓库（monorepo）单日合并请求次数超过3万次。该说法来自Reddit相关帖子。
+AI Studio 正在展示一款据称由 Gemini 4 Argon 构建的游戏。目前该说法尚未得到独立确认。
 
 **为什么值得看：**
-如果属实，说明AI辅助开发已经进入大规模并行阶段，软件开发流程将被结构性改变，而不只是“写代码更快”。
+如果属实，意味着 AI 已经能独立产出可玩的完整游戏，这是“AI 做游戏”从 Demo 走向真实作品的标志性事件。
 
 **值得程度：**
 👀 值得留意
-
-**分类：**
-AI / 科技
-
-**来源：** https://www.reddit.com/r/artificial/comments/1x5htw8/anthropic_says_coding_is_no_longer_the_bottleneck/
-
----
-
-### Grace Hopper Celebration 宣布取消
-
-**发生了什么：**
-AnitaB.org发布新闻稿，宣布取消Grace Hopper Celebration（GHC）大会。
-
-**为什么值得看：**
-GHC是全球最大的女性科技从业者大会，它的取消不仅影响一场活动，也反映出科技行业多元社区在当前环境下面临的现实压力。
-
-**值得程度：**
-👀 值得留意
-
-**分类：**
-科技 / 互联网
-
-**来源：** https://anitab.org/press-release
-
----
-
-### Netflix重金投资Ben Affleck的AI公司，但《Animals》后可能开始怀疑
-
-**发生了什么：**
-有Reddit讨论指出，Netflix此前重金投资了Ben Affleck的AI公司；而在该公司相关作品《Animals》之后，Netflix或许开始怀疑这笔投资的价值。
-
-**为什么值得看：**
-这是好莱坞与AI创业公司合作的典型样本，能让人们看到娱乐产业在AI投入上的期待与真实效果之间的落差。
-
-**值得程度：**
-👀 值得留意
-
-**分类：**
-娱乐 / AI
-
-**来源：** https://www.reddit.com/r/artificial/comments/1x4wcl5/netflix_spent_big_on_ben_afflecks_ai_company/
-
----
-
-### Epic Games CEO：目标是在AI革命中生存，转向“AI优先”开发
-
-**发生了什么：**
-Epic Games CEO Tim Sweeney表示，其“目标是在AI革命中生存”，并透露《星球大战》与《漫威》联动项目将转向“AI优先”开发，美术内容将使用“完整AI工作流”生成。
-
-**为什么值得看：**
-头部游戏引擎公司公开把AI生成作为核心生产方式，这可能成为游戏行业从“AI辅助”到“AI主导”转变的标志性节点。
-
-**值得程度：**
-🔥 很值得看
 
 **分类：**
 游戏 / AI
 
-**来源：** https://www.reddit.com/r/artificial/comments/1x4pzvo/our_humble_goal_is_to_survive_the_ai_revolution/
+**来源：** https://www.reddit.com/r/artificial/comments/1x5zs1r/gemini_4_argon_apparently_built_this_game_ai/
 
 ---
 
-### 警方用AI从一张室内照片定位住所，甚至洗衣机照片就够
+### Anthropic 的 Scion 项目深受《幽灵公主》影响
 
 **发生了什么：**
-有帖子称，警方正在使用AI根据一张室内照片定位住所，甚至一张洗衣机照片就足以实现定位。
+一篇分析文章指出，Anthropic 的内部项目 Scion 在美学和世界观上明显参考了宫崎骏的《幽灵公主》。
 
 **为什么值得看：**
-这是AI在执法领域的极端应用，直接挑战隐私边界和取证合法性，对数字时代的个人安全有深远影响。
+AI 公司的产品开始直接受经典动画影响，这个交叉点本身就很有意思，也可能暗示未来 AI 产品的设计语言会更偏向人文叙事。
 
 **值得程度：**
-🔥 很值得看
+👀 值得留意
+
+**分类：**
+科技 / 电影
+
+**来源：** https://sunshowers.io/posts/anthropic-mononoke/
+
+---
+
+### OpenCode 2.0 发布
+
+**发生了什么：**
+Anoma 发布了 OpenCode 2.0，一个开源编程工具的新版本。
+
+**为什么值得看：**
+开源命令行工具的新版本往往预示着工作流改进。对于关心 AI 辅助编程和开源生态的开发者来说，这是值得试用的变化。
+
+**值得程度：**
+👀 值得留意
 
 **分类：**
 科技 / 互联网
 
-**来源：** https://www.reddit.com/r/artificial/comments/1x4v8vl/police_are_using_ai_to_locate_homes_from_a_single/
+**来源：** https://anoma.ly/notes/opencode-2-0/
 
 ---
 
-### “注意力”是智能的本质吗？
+### Peter Thiel 炮轰 AI 监管者
 
 **发生了什么：**
-Quanta Magazine发表了一篇深度文章，探讨“注意力是否为智能的本质”这一理论问题。
+据社交平台上的报道，Peter Thiel 在一次活动中将 AI 监管的支持者与“敌基督”联系在一起，并指责奥巴马和教皇利用公众恐惧来提升人气。这些说法目前尚未得到独立确认。
 
 **为什么值得看：**
-从认知科学到Transformer架构，“注意力”确实是当前AI的核心概念。这篇文章能帮助你从底层理解为什么AI会发展成今天这个样子。
+这是科技圈保守派代表人物对 AI 监管的强烈表态，争议性极强，也反映了硅谷内部关于 AI 控制权的深层裂痕。
 
 **值得程度：**
 🟡 有意思，但不重要
 
 **分类：**
-AI
+科技
 
-**来源：** https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/
+**来源：** https://www.reddit.com/r/artificial/comments/1x5lkkg/peter_thiel_escalates_war_on_ai_critics_accuses/
 
 ---
 
-### 框架还重要吗？
+### Epic Games 表示“编程太难”，用 vibe coding 写新启动器？
 
 **发生了什么：**
-一篇博客文章讨论了现代开发中“框架是否还重要”的问题，重新审视工具选择的底层逻辑。
+一篇 Reddit 帖子称，Epic Games 用“氛围编程”方式开发了新启动器，并解释说是“因为编程太难”。该说法尚未得到独立确认。
 
 **为什么值得看：**
-对于关注设计、开发流程的人来说，这种思考能帮你在不断变化的技术栈中保持更清晰的判断力。
+如果为真，这是一个大公司用 AI 直接写核心产品的大案例；如果是个梗，也能反映社区对 vibe coding 的复杂态度。
 
 **值得程度：**
 🟡 有意思，但不重要
 
 **分类：**
-科技 / 设计
+游戏 / AI
 
-**来源：** https://brookslybrand.com/posts/do-frameworks-matter-anymore/
+**来源：** https://www.reddit.com/r/artificial/comments/1x5uwd0/epic_games_says_it_vibe_coded_new_launcher/
+
+---
+
+### Show HN：我的终端主题 Web 应用
+
+**发生了什么：**
+有人在 Hacker News 上展示了一个制作终端主题的 Web 应用，可以更方便地创建和预览终端配色方案。
+
+**为什么值得看：**
+终端主题是程序员和设计师都关心的细节审美。这种小工具不一定改变行业，但可能真的能帮到一批人，轻松有趣。
+
+**值得程度：**
+🟡 有意思，但不重要
+
+**分类：**
+设计 / 科技
+
+**来源：** https://news.ycombinator.com/item?id=50098454
 
 ---
 
 ## 今天真正值得关注的 3 件事
 
-**1. OpenAI工程师被捕事件**
+**1. LFM2.5-24B-A2B 发布**
+它可能是端侧 AI 的一次实质推进。值得观察：后续是否有手机或终端厂商接入，以及它在真实设备上的性能和功耗表现。
 
-为什么值得关注：这不是普通的内鬼问题，而是涉及管理层会议室窃听的严重安全事件。对一家以“安全”为核心卖点的AI公司而言，这是对内部信任的一次重大打击。
+**2. OpenAI 纳维-斯托克斯证明的争议**
+这项证明的可靠性被质疑，直接影响外界对 AI 在数学发现上价值的信任。值得观察：OpenAI 或相关研究者是否会正式回应，证明是否会被撤回或澄清。
 
-接下来值得观察什么：OpenAI会如何回应？事件是否牵涉更复杂的商业或技术机密问题，以及后续是否会引发对AI公司内部治理的进一步调查。
-
-**2. Character.AI破产**
-
-为什么值得关注：它曾经是AI陪伴赛道的代表性公司，如今以极低价格把资产卖给迪士尼，说明了AI社交产品在商业模式上的脆弱性，也为“AI娱乐内容”未来的走向提供了新线索。
-
-接下来值得观察什么：迪士尼拿到这些资产后会用在哪里？Character.AI的用户和数据会有什么变化？同类AI陪伴产品是否会受到连锁影响？
-
-**3. Anthropic：单日3万次合并**
-
-为什么值得关注：如果Anthropic的宣称成立，意味着AI编码已不再只是“辅助程序员”，而是可以大规模并行处理工程任务的“基础设施”级能力。软件开发的速度和团队规模逻辑将被重新定义。
-
-接下来值得观察什么：其他大厂是否也会公布类似数据？这种效率提升是否会影响AI公司的人员结构、产品迭代速度，以及整个软件行业的竞争节奏。
+**3. Gemini 4 Argon 制作游戏**
+如果这是真的，AI 从“帮人写代码”到“自己做出一个游戏”的转折点就更近了。值得观察：实际展示的游戏质量如何，以及这些 AI 生成内容的版权归属会怎么处理。
