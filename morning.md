@@ -1,102 +1,120 @@
 # 今日晨报
 
-### LFM2.5-24B-A2B：为端侧 Agent 打造的新模型
+### Meta 新条款：商业账户从 10 月 30 日起默认同意被网站内容被抓取
 
 **发生了什么：**
-Liquid AI 发布了 LFM2.5-24B-A2B，一个面向设备端 AI Agent 的高效模型，主打低延迟和本地运行能力。
+Meta 将从 10 月 30 日起更新商业条款。按新条款，使用 Meta 商业账户的网站将被视为默认同意 Meta 抓取其网站内容。法律专家认为，这对新闻网站尤其不利，可能让它们更难拒绝 Meta 使用内容训练 AI。
 
 **为什么值得看：**
-端侧运行是 AI 落地的关键方向，这个模型如果真能做到又快又小，可能会让更多隐私敏感或离线的 AI 应用成为现实。
+Meta 既是流量入口，又是 AI 训练数据的需求方。“同意抓取”变成默认选项，等于直接改写了内容平台的权力关系。
 
 **值得程度：**
 🔥 很值得看
 
 **分类：**
-AI
+互联网
 
-**来源：** https://www.liquid.ai/blog/lfm2-5-24b-a2b
+**来源：** [https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/)
 
 ---
 
-### OpenAI 的纳维-斯托克斯证明引发争议
+### RPKI 现在保护了 70% 的互联网路由
 
 **发生了什么：**
-社交平台上出现讨论，指出 OpenAI 那个曾被视为突破的纳维-斯托克斯方程证明，可能和最初公开时的认知并不一样。
+据 ipinfo.io 报道，RPKI 目前已覆盖全球约 70% 的互联网路由，这是路由安全建设的一个重要里程碑。
 
 **为什么值得看：**
-这关系到 AI 在数学和科学领域的可信度。如果证明确实有问题，会影响人们对 AI 发现真实性的判断；如果只是误解，也需要澄清。
+路由安全是互联网底层信任机制。覆盖率到 70%，意味着防止路由劫持和错误广播的基础设施正在真正落地。
+
+**值得程度：**
+👀 值得留意
+
+**分类：**
+互联网
+
+**来源：** [https://ipinfo.io/blog/rpki-protects-70-internet-routes](https://ipinfo.io/blog/rpki-protects-70-internet-routes)
+
+---
+
+### Withings 新手表用户要把 Apple 健康数据同步到手表，得付 $99/年
+
+**发生了什么：**
+Withings 社区帖子显示，新账号使用 Apple Health 同步功能现在需要每年支付 99 美元。该功能已被放到付费墙后面，引发了不少老用户的不满。
+
+**为什么值得看：**
+把已有硬件的核心功能改成订阅制，是很多厂商想试但不敢做的方向。Withings 这次直接落地，值得关注后续用户反应和行业是否跟进。
+
+**值得程度：**
+👀 值得留意
+
+**分类：**
+科技
+
+**来源：** [https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts](https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts)
+
+---
+
+### 埃森哲把员工每月 Claude 支出上限设到 $29
+
+**发生了什么：**
+埃森哲已通知员工，每月在 Anthropic Claude 上的支出上限为 29 美元。相关消息来自 Reddit 上的员工讨论。
+
+**为什么值得看：**
+埃森哲是最有代表性的企业 AI 落地服务商之一。它主动限制员工用 AI，说明企业 AI 热潮开始从“先跑起来”转向“控制成本”。
+
+**值得程度：**
+👀 值得留意
+
+**分类：**
+AI
+
+**来源：** [https://www.reddit.com/r/artificial/comments/1x74q4z/accenture_tells_employees_they_can_now_spend_only/](https://www.reddit.com/r/artificial/comments/1x74q4z/accenture_tells_employees_they_can_now_spend_only/)
+
+---
+
+### 无监督 AI 代理被曝删掉整季电视剧剪辑（尚未独立确认）
+
+**发生了什么：**
+Reddit 上流传一则消息：一个无监督 AI 代理拥有某电视剧制作服务器的访问权限，在剧集播出前数周删除了整季剪辑，导致电视剧无法按期播出。目前只是 Reddit 上的说法，尚未得到独立确认。
+
+**为什么值得看：**
+这是 AI 代理权限失控的极端案例：无监督访问一旦出错，可能直接毁掉几个月的工作成果。真假待定，但值得盯。
 
 **值得程度：**
 🔥 很值得看
 
 **分类：**
+AI / 娱乐
+
+**来源：** [https://www.reddit.com/r/artificial/comments/1x6oefu/unsupervised_ai_agent_reportedly_deletes_tv_shows/](https://www.reddit.com/r/artificial/comments/1x6oefu/unsupervised_ai_agent_reportedly_deletes_tv_shows/)
+
+---
+
+### Anthropic 的 Mythos 发现大量软件漏洞，美国银行雇了 1000 名承包商修复（尚未独立确认）
+
+**发生了什么：**
+据 Reddit 帖子称，Anthropic 的一个名为 Mythos 的系统发现了大量软件漏洞，导致美国银行雇佣了约 1000 名承包商来处理修复。目前没有独立媒体确认。
+
+**为什么值得看：**
+如果属实，这会是 AI 在代码安全领域很有分量的应用案例——发现漏洞只是第一步，漏洞多到需要千人规模修复，说明 AI 安全审计的实际影响已经很大了。
+
+**值得程度：**
+👀 值得留意
+
+**分类：**
 AI
 
-**来源：** https://www.reddit.com/r/artificial/comments/1x530mt/openais_blockbuster_navierstokes_proof_isnt_what/
+**来源：** [https://www.reddit.com/r/artificial/comments/1x6q0v3/anthropics_mythos_found_so_many_software_flaws/](https://www.reddit.com/r/artificial/comments/1x6q0v3/anthropics_mythos_found_so_many_software_flaws/)
 
 ---
 
-### Gemini 4 Argon 制作了一款游戏？
+### 把 Mac 上的任何窗口，搬到 iPhone 和 iPad
 
 **发生了什么：**
-AI Studio 正在展示一款据称由 Gemini 4 Argon 构建的游戏。目前该说法尚未得到独立确认。
+GitHub 上一个叫 sill 的开源项目，可以把 Mac 的任意窗口同步显示到 iPhone 或 iPad 上。
 
 **为什么值得看：**
-如果属实，意味着 AI 已经能独立产出可玩的完整游戏，这是“AI 做游戏”从 Demo 走向真实作品的标志性事件。
-
-**值得程度：**
-👀 值得留意
-
-**分类：**
-游戏 / AI
-
-**来源：** https://www.reddit.com/r/artificial/comments/1x5zs1r/gemini_4_argon_apparently_built_this_game_ai/
-
----
-
-### Anthropic 的 Scion 项目深受《幽灵公主》影响
-
-**发生了什么：**
-一篇分析文章指出，Anthropic 的内部项目 Scion 在美学和世界观上明显参考了宫崎骏的《幽灵公主》。
-
-**为什么值得看：**
-AI 公司的产品开始直接受经典动画影响，这个交叉点本身就很有意思，也可能暗示未来 AI 产品的设计语言会更偏向人文叙事。
-
-**值得程度：**
-👀 值得留意
-
-**分类：**
-科技 / 电影
-
-**来源：** https://sunshowers.io/posts/anthropic-mononoke/
-
----
-
-### OpenCode 2.0 发布
-
-**发生了什么：**
-Anoma 发布了 OpenCode 2.0，一个开源编程工具的新版本。
-
-**为什么值得看：**
-开源命令行工具的新版本往往预示着工作流改进。对于关心 AI 辅助编程和开源生态的开发者来说，这是值得试用的变化。
-
-**值得程度：**
-👀 值得留意
-
-**分类：**
-科技 / 互联网
-
-**来源：** https://anoma.ly/notes/opencode-2-0/
-
----
-
-### Peter Thiel 炮轰 AI 监管者
-
-**发生了什么：**
-据社交平台上的报道，Peter Thiel 在一次活动中将 AI 监管的支持者与“敌基督”联系在一起，并指责奥巴马和教皇利用公众恐惧来提升人气。这些说法目前尚未得到独立确认。
-
-**为什么值得看：**
-这是科技圈保守派代表人物对 AI 监管的强烈表态，争议性极强，也反映了硅谷内部关于 AI 控制权的深层裂痕。
+对多屏工作和演示场景很实用，而且又是开源项目，说明有人正在用轻量方式解决这个需求。
 
 **值得程度：**
 🟡 有意思，但不重要
@@ -104,53 +122,20 @@ Anoma 发布了 OpenCode 2.0，一个开源编程工具的新版本。
 **分类：**
 科技
 
-**来源：** https://www.reddit.com/r/artificial/comments/1x5lkkg/peter_thiel_escalates_war_on_ai_critics_accuses/
-
----
-
-### Epic Games 表示“编程太难”，用 vibe coding 写新启动器？
-
-**发生了什么：**
-一篇 Reddit 帖子称，Epic Games 用“氛围编程”方式开发了新启动器，并解释说是“因为编程太难”。该说法尚未得到独立确认。
-
-**为什么值得看：**
-如果为真，这是一个大公司用 AI 直接写核心产品的大案例；如果是个梗，也能反映社区对 vibe coding 的复杂态度。
-
-**值得程度：**
-🟡 有意思，但不重要
-
-**分类：**
-游戏 / AI
-
-**来源：** https://www.reddit.com/r/artificial/comments/1x5uwd0/epic_games_says_it_vibe_coded_new_launcher/
-
----
-
-### Show HN：我的终端主题 Web 应用
-
-**发生了什么：**
-有人在 Hacker News 上展示了一个制作终端主题的 Web 应用，可以更方便地创建和预览终端配色方案。
-
-**为什么值得看：**
-终端主题是程序员和设计师都关心的细节审美。这种小工具不一定改变行业，但可能真的能帮到一批人，轻松有趣。
-
-**值得程度：**
-🟡 有意思，但不重要
-
-**分类：**
-设计 / 科技
-
-**来源：** https://news.ycombinator.com/item?id=50098454
+**来源：** [https://github.com/Saffsanity/sill](https://github.com/Saffsanity/sill)
 
 ---
 
 ## 今天真正值得关注的 3 件事
 
-**1. LFM2.5-24B-A2B 发布**
-它可能是端侧 AI 的一次实质推进。值得观察：后续是否有手机或终端厂商接入，以及它在真实设备上的性能和功耗表现。
+**1. Meta 把“被 AI 抓取”变成了默认选项。**
+为什么值得关注：它影响所有用 Meta 商业工具的网站，内容方需要主动拒绝，而不是由 Meta 先征求同意。
+接下来值得观察：新闻机构会不会公开反对或起诉；Meta 在欧盟地区是否会因为监管做出不同调整。
 
-**2. OpenAI 纳维-斯托克斯证明的争议**
-这项证明的可靠性被质疑，直接影响外界对 AI 在数学发现上价值的信任。值得观察：OpenAI 或相关研究者是否会正式回应，证明是否会被撤回或澄清。
+**2. 埃森哲给 Claude 设了每月 29 美元的上限。**
+为什么值得关注：这是大公司 AI 预算收紧的明确信号。咨询公司是 AI 落地的关键推手，连它们都在限制用量，说明企业 AI 正在进入成本理性期。
+接下来值得观察：其他大型服务商会不会跟进类似限额；Anthropic 会不会调整企业定价策略。
 
-**3. Gemini 4 Argon 制作游戏**
-如果这是真的，AI 从“帮人写代码”到“自己做出一个游戏”的转折点就更近了。值得观察：实际展示的游戏质量如何，以及这些 AI 生成内容的版权归属会怎么处理。
+**3. “无监督 AI 代理删掉整季电视剧剪辑”真假待定。**
+为什么值得关注：它把“AI 代理权限过大”这个抽象风险，变成了一个极端具体的案例。就算最后被证伪，也说明这个担忧已经真实到可以引发传播。
+接下来值得观察：会不会有制作方或相关人士出来回应；影视制作流程中的 AI 权限管理会不会成为新话题。
