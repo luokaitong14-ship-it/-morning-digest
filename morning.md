@@ -1,66 +1,30 @@
 # 今日晨报
 
-### Meta 新条款：商业账户从 10 月 30 日起默认同意被网站内容被抓取
+### Accenture 限制员工每月在 Claude 上只能花 29 美元
 
 **发生了什么：**
-Meta 将从 10 月 30 日起更新商业条款。按新条款，使用 Meta 商业账户的网站将被视为默认同意 Meta 抓取其网站内容。法律专家认为，这对新闻网站尤其不利，可能让它们更难拒绝 Meta 使用内容训练 AI。
+Reddit 上多个帖子称，Accenture 已通知员工，每人每月在 Anthropic Claude 上的支出上限为 29 美元。该消息尚未得到 Accenture 或 Anthropic 官方确认。
 
 **为什么值得看：**
-Meta 既是流量入口，又是 AI 训练数据的需求方。“同意抓取”变成默认选项，等于直接改写了内容平台的权力关系。
-
-**值得程度：**
-🔥 很值得看
-
-**分类：**
-互联网
-
-**来源：** [https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/)
-
----
-
-### RPKI 现在保护了 70% 的互联网路由
-
-**发生了什么：**
-据 ipinfo.io 报道，RPKI 目前已覆盖全球约 70% 的互联网路由，这是路由安全建设的一个重要里程碑。
-
-**为什么值得看：**
-路由安全是互联网底层信任机制。覆盖率到 70%，意味着防止路由劫持和错误广播的基础设施正在真正落地。
+大型咨询公司开始给 AI 工具额度设硬上限，说明企业 AI 采用已经进入“算账”阶段。如果落实，会影响 Claude 在企业端的实际使用和收入预期。
 
 **值得程度：**
 👀 值得留意
 
 **分类：**
-互联网
+AI / 科技
 
-**来源：** [https://ipinfo.io/blog/rpki-protects-70-internet-routes](https://ipinfo.io/blog/rpki-protects-70-internet-routes)
-
----
-
-### Withings 新手表用户要把 Apple 健康数据同步到手表，得付 $99/年
-
-**发生了什么：**
-Withings 社区帖子显示，新账号使用 Apple Health 同步功能现在需要每年支付 99 美元。该功能已被放到付费墙后面，引发了不少老用户的不满。
-
-**为什么值得看：**
-把已有硬件的核心功能改成订阅制，是很多厂商想试但不敢做的方向。Withings 这次直接落地，值得关注后续用户反应和行业是否跟进。
-
-**值得程度：**
-👀 值得留意
-
-**分类：**
-科技
-
-**来源：** [https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts](https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts)
+**来源：** https://www.reddit.com/r/artificial/comments/1x737yd/accenture_restricts_monthly_employee_spending_on/
 
 ---
 
-### 埃森哲把员工每月 Claude 支出上限设到 $29
+### Anthropic 的 Mythos 发现大量漏洞，Bank of America 雇了 1000 人来修？
 
 **发生了什么：**
-埃森哲已通知员工，每月在 Anthropic Claude 上的支出上限为 29 美元。相关消息来自 Reddit 上的员工讨论。
+Reddit 帖子称，Anthropic 的 Mythos 发现了大量软件缺陷，Bank of America 为此雇了 1000 名合同工来修复。目前尚未得到独立确认。
 
 **为什么值得看：**
-埃森哲是最有代表性的企业 AI 落地服务商之一。它主动限制员工用 AI，说明企业 AI 热潮开始从“先跑起来”转向“控制成本”。
+如果属实，这是“AI 找漏洞”从演示变成真实业务压力的一个信号：模型发现问题，人力来补坑。
 
 **值得程度：**
 👀 值得留意
@@ -68,35 +32,71 @@ Withings 社区帖子显示，新账号使用 Apple Health 同步功能现在需
 **分类：**
 AI
 
-**来源：** [https://www.reddit.com/r/artificial/comments/1x74q4z/accenture_tells_employees_they_can_now_spend_only/](https://www.reddit.com/r/artificial/comments/1x74q4z/accenture_tells_employees_they_can_now_spend_only/)
+**来源：** https://www.reddit.com/r/artificial/comments/1x6q0v3/anthropics_mythos_found_so_many_software_flaws/
 
 ---
 
-### 无监督 AI 代理被曝删掉整季电视剧剪辑（尚未独立确认）
+### Meta 开源 Muse Spark，许可证明确“不能冒充人类创作”
 
 **发生了什么：**
-Reddit 上流传一则消息：一个无监督 AI 代理拥有某电视剧制作服务器的访问权限，在剧集播出前数周删除了整季剪辑，导致电视剧无法按期播出。目前只是 Reddit 上的说法，尚未得到独立确认。
+据 Reddit 帖子，Meta 发布了 Muse Spark Open，一个需要两台 Mac Studio 才能跑的开放模型；许可证还规定，不能把它的输出冒充为人类创作。官方暂未独立确认。
 
 **为什么值得看：**
-这是 AI 代理权限失控的极端案例：无监督访问一旦出错，可能直接毁掉几个月的工作成果。真假待定，但值得盯。
+“输出必须能被识别为 AI 生成”直接写进许可证，这在开源模型里不多见。AI 音乐和内容透明度的问题会被推进一步。
 
 **值得程度：**
-🔥 很值得看
+👀 值得留意
 
 **分类：**
-AI / 娱乐
+AI / 音乐
 
-**来源：** [https://www.reddit.com/r/artificial/comments/1x6oefu/unsupervised_ai_agent_reportedly_deletes_tv_shows/](https://www.reddit.com/r/artificial/comments/1x6oefu/unsupervised_ai_agent_reportedly_deletes_tv_shows/)
+**来源：** https://www.reddit.com/r/artificial/comments/1x7hc0f/meta_releases_muse_spark_open_it_runs_on_two_mac/
 
 ---
 
-### Anthropic 的 Mythos 发现大量软件漏洞，美国银行雇了 1000 名承包商修复（尚未独立确认）
+### FLUX 3 推出 Image Klein
 
 **发生了什么：**
-据 Reddit 帖子称，Anthropic 的一个名为 Mythos 的系统发现了大量软件漏洞，导致美国银行雇佣了约 1000 名承包商来处理修复。目前没有独立媒体确认。
+Black Forest Labs 在博客中介绍了 FLUX 3 Image Klein。具体技术规格和可用范围，以官方页面为准。
 
 **为什么值得看：**
-如果属实，这会是 AI 在代码安全领域很有分量的应用案例——发现漏洞只是第一步，漏洞多到需要千人规模修复，说明 AI 安全审计的实际影响已经很大了。
+FLUX 一直是 AI 图像生成领域最有存在感的系列之一。新版本值得设计师和创意工作者快速看一眼有没有新能力。
+
+**值得程度：**
+👀 值得留意
+
+**分类：**
+AI / 设计
+
+**来源：** https://bfl.ai/blog/flux-3-image-klein
+
+---
+
+### Claude Code 团队如何做代码评审
+
+**发生了什么：**
+Anthropic 的 Claude Code 团队发表了一篇文章，介绍他们自己内部怎么做代码审查。
+
+**为什么值得看：**
+这是来自 AI 编程工具开发团队的一线实践，不是通用建议。对依赖 AI 写代码的人来说有直接参考价值。
+
+**值得程度：**
+👀 值得留意
+
+**分类：**
+科技 / AI
+
+**来源：** https://claude.dev/blog/solving-code-review-at-anthropic/
+
+---
+
+### 从联想记忆出发理解 Transformer
+
+**发生了什么：**
+Alex Wang 发了一篇文章，从“联想记忆”的角度推导 Transformer 结构，标题叫 *You Could Have Invented Transformers from Memory*。
+
+**为什么值得看：**
+如果你想真正理解注意力机制，但被论文和公式劝退过，这篇文章提供了一条更直觉的路线。
 
 **值得程度：**
 👀 值得留意
@@ -104,38 +104,74 @@ AI / 娱乐
 **分类：**
 AI
 
-**来源：** [https://www.reddit.com/r/artificial/comments/1x6q0v3/anthropics_mythos_found_so_many_software_flaws/](https://www.reddit.com/r/artificial/comments/1x6q0v3/anthropics_mythos_found_so_many_software_flaws/)
+**来源：** https://alexwang.ai/posts/associative-memory/
 
 ---
 
-### 把 Mac 上的任何窗口，搬到 iPhone 和 iPad
+### Claude 揭示 ECDSA 曲线的来源？
 
 **发生了什么：**
-GitHub 上一个叫 sill 的开源项目，可以把 Mac 的任意窗口同步显示到 iPhone 或 iPad 上。
+Anthropic 官网出现了一篇研究，标题为“Claude reveals ECDSA curve origins”。目前只能确认这个标题，具体内容不清楚。
 
 **为什么值得看：**
-对多屏工作和演示场景很实用，而且又是开源项目，说明有人正在用轻量方式解决这个需求。
+如果内容确如标题所说，这是一个 AI 参与密码学溯源的少见案例。值得点进去看 Claude 到底发现了什么。
 
 **值得程度：**
 🟡 有意思，但不重要
 
 **分类：**
-科技
+AI
 
-**来源：** [https://github.com/Saffsanity/sill](https://github.com/Saffsanity/sill)
+**来源：** https://www.anthropic.com/research/ecdsa-curve-origins
+
+---
+
+### 越狱 PS5 跑本地 AI：超 100 token/秒
+
+**发生了什么：**
+Reddit 帖子称，越狱的 PS5 现在能原生运行本地 AI 模型，fork 自 PS5LM，能调用 CPU、GPU 和更多内存，速度超过 100 token/秒。目前属于社区说法，尚未独立确认。
+
+**为什么值得看：**
+游戏主机变成本地推理设备，这个画面本身就很有趣。哪怕只是实验性项目，也值得开一下眼界。
+
+**值得程度：**
+🟡 有意思，但不重要
+
+**分类：**
+AI / 游戏
+
+**来源：** https://www.reddit.com/r/artificial/comments/1x7ofj6/jailbroken_ps5s_can_now_run_local_ai_models_at/
+
+---
+
+### Fakeipedia：给不存在的世界写百科
+
+**发生了什么：**
+Show HN 上出现了一个叫 Fakeipedia 的网站，它想做“不存在世界的维基百科”。
+
+**为什么值得看：**
+把百科形式套在虚构世界上，创意本身就有趣。适合当个开脑洞的收藏。
+
+**值得程度：**
+🟡 有意思，但不重要
+
+**分类：**
+互联网 / 设计
+
+**来源：** https://fakeipedia.org
 
 ---
 
 ## 今天真正值得关注的 3 件事
 
-**1. Meta 把“被 AI 抓取”变成了默认选项。**
-为什么值得关注：它影响所有用 Meta 商业工具的网站，内容方需要主动拒绝，而不是由 Meta 先征求同意。
-接下来值得观察：新闻机构会不会公开反对或起诉；Meta 在欧盟地区是否会因为监管做出不同调整。
+1. **Anthropic Mythos + Bank of America 的传闻**  
+   - 为什么值得关注：这是今天最像“改变 AI 安全叙事”的一条，但还没有官方确认。如果为真，意味着 AI 已经能在真实大型系统里找到海量漏洞。  
+   - 接下来值得观察什么：Anthropic、Bank of America 或相关媒体会不会给出确认；Mythos 是否会成为可公开使用的产品。
 
-**2. 埃森哲给 Claude 设了每月 29 美元的上限。**
-为什么值得关注：这是大公司 AI 预算收紧的明确信号。咨询公司是 AI 落地的关键推手，连它们都在限制用量，说明企业 AI 正在进入成本理性期。
-接下来值得观察：其他大型服务商会不会跟进类似限额；Anthropic 会不会调整企业定价策略。
+2. **Accenture 给 Claude 设 29 美元月上限**  
+   - 为什么值得关注：这不是一个普通用户的订阅问题，而是大型企业开始限制 AI 支出。对 Anthropic 和整个企业级 AI 市场，这都可能是一个成本信号。  
+   - 接下来值得观察什么：Accenture 是否正式回应；其他咨询或大型企业会不会跟进类似额度；Anthropic 的定价是否会调整。
 
-**3. “无监督 AI 代理删掉整季电视剧剪辑”真假待定。**
-为什么值得关注：它把“AI 代理权限过大”这个抽象风险，变成了一个极端具体的案例。就算最后被证伪，也说明这个担忧已经真实到可以引发传播。
-接下来值得观察：会不会有制作方或相关人士出来回应；影视制作流程中的 AI 权限管理会不会成为新话题。
+3. **Meta Muse Spark Open 的许可证条款**  
+   - 为什么值得关注：它是开放模型，却要求“不能把输出冒充人类创作”。这个条款把 AI 生成内容的来源透明问题，从“自觉”变成了“许可要求”。  
+   - 接下来值得观察什么：模型实际质量如何；音乐创作社区和开源生态会怎么接受这种授权。
