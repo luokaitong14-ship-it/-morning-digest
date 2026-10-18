@@ -1,177 +1,132 @@
 # 今日晨报
 
-### Accenture 限制员工每月在 Claude 上只能花 29 美元
+## 今日晨报
 
-**发生了什么：**
-Reddit 上多个帖子称，Accenture 已通知员工，每人每月在 Anthropic Claude 上的支出上限为 29 美元。该消息尚未得到 Accenture 或 Anthropic 官方确认。
+### 太阳能发电量首次超越核能
 
-**为什么值得看：**
-大型咨询公司开始给 AI 工具额度设硬上限，说明企业 AI 采用已经进入“算账”阶段。如果落实，会影响 Claude 在企业端的实际使用和收入预期。
+**发生了什么：** 根据专业能源媒体报道，全球太阳能发电量首次超过核能。这是一个能源结构变化的具体节点，不是一个预测。
 
-**值得程度：**
-👀 值得留意
+**为什么值得看：** 太阳能从“补充能源”变成“主力能源之一”的拐点已经出现，这会直接影响AI数据中心、科技公司的能源策略——毕竟AI的耗电焦虑已经喊了很久。
 
-**分类：**
-AI / 科技
+**值得程度：** 🔥 很值得看
 
-**来源：** https://www.reddit.com/r/artificial/comments/1x737yd/accenture_restricts_monthly_employee_spending_on/
+**分类：** 科技
+
+**来源：** [pv-magazine.com](https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/)
 
 ---
 
-### Anthropic 的 Mythos 发现大量漏洞，Bank of America 雇了 1000 人来修？
+### 纽约提出游戏所有权法案：买游戏就是买游戏，不是买许可证
 
-**发生了什么：**
-Reddit 帖子称，Anthropic 的 Mythos 发现了大量软件缺陷，Bank of America 为此雇了 1000 名合同工来修复。目前尚未得到独立确认。
+**发生了什么：** 纽约州一位众议员宣布了一项法案，要求游戏发行商在销售游戏时必须提供“所有权”而非“许可证”，并规定即使官方停止支持，游戏也必须保持可玩状态。目前只是法案宣布阶段，尚未通过。
 
-**为什么值得看：**
-如果属实，这是“AI 找漏洞”从演示变成真实业务压力的一个信号：模型发现问题，人力来补坑。
+**为什么值得看：** 数字游戏“花钱买了个随时可能被收回的许可证”这个问题被正式摆到立法层面了。如果通过，会直接改变整个游戏行业的销售模式——不只是纽约玩家的事。
 
-**值得程度：**
-👀 值得留意
+**值得程度：** 🔥 很值得看
 
-**分类：**
-AI
+**分类：** 游戏
 
-**来源：** https://www.reddit.com/r/artificial/comments/1x6q0v3/anthropics_mythos_found_so_many_software_flaws/
+**来源：** [Tom's Hardware](https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends)
 
 ---
 
-### Meta 开源 Muse Spark，许可证明确“不能冒充人类创作”
+### 一家人工智能实验室提供免费管道和 HVAC 维修，用来训练机器人
 
-**发生了什么：**
-据 Reddit 帖子，Meta 发布了 Muse Spark Open，一个需要两台 Mac Studio 才能跑的开放模型；许可证还规定，不能把它的输出冒充为人类创作。官方暂未独立确认。
+**发生了什么：** 一家人工智能实验室在美国三个城市提供免费的上门管道和暖通空调维修服务。他们的目的不是做慈善，而是让机器人从真实维修场景中学习操作技能。
 
-**为什么值得看：**
-“输出必须能被识别为 AI 生成”直接写进许可证，这在开源模型里不多见。AI 音乐和内容透明度的问题会被推进一步。
+**为什么值得看：** 这是机器人训练数据采集的一种新思路——用“免费服务”换“真实世界操作数据”，比实验室里的模拟数据更有价值。物理世界里的AI应用正在以很实际的方式渗透日常生活。
 
-**值得程度：**
-👀 值得留意
+**值得程度：** 🔥 很值得看
 
-**分类：**
-AI / 音乐
+**分类：** AI
 
-**来源：** https://www.reddit.com/r/artificial/comments/1x7hc0f/meta_releases_muse_spark_open_it_runs_on_two_mac/
+**来源：** [Reddit r/artificial](https://www.reddit.com/r/artificial/comments/1x8ux7x/ai_lab_offers_free_plumbing_and_hvac_repairs/)
 
 ---
 
-### FLUX 3 推出 Image Klein
+### 越狱 PS5 现在可以本地运行 AI 模型
 
-**发生了什么：**
-Black Forest Labs 在博客中介绍了 FLUX 3 Image Klein。具体技术规格和可用范围，以官方页面为准。
+**发生了什么：** 开发者将 PS5LM 项目移植到了原生环境，越狱后的 PS5 可以调用 CPU、GPU和更多内存来运行本地AI模型，速度超过每秒100个 token。
 
-**为什么值得看：**
-FLUX 一直是 AI 图像生成领域最有存在感的系列之一。新版本值得设计师和创意工作者快速看一眼有没有新能力。
+**为什么值得看：** 虽然这只是极客行为，但它意味着消费级游戏主机正在变成便宜的本地AI硬件——如果这条路线走通了，会影响到未来AI算力设备的选择。
 
-**值得程度：**
-👀 值得留意
+**值得程度：** 👀 值得留意
 
-**分类：**
-AI / 设计
+**分类：** 科技 / 游戏
 
-**来源：** https://bfl.ai/blog/flux-3-image-klein
+**来源：** [Reddit r/artificial](https://www.reddit.com/r/artificial/comments/1x7ofj6/jailbroken_ps5s_can_now_run_local_ai_models_at/)
 
 ---
 
-### Claude Code 团队如何做代码评审
+### 流媒体正在用AI字幕替换人工字幕，但错误率明显更高
 
-**发生了什么：**
-Anthropic 的 Claude Code 团队发表了一篇文章，介绍他们自己内部怎么做代码审查。
+**发生了什么：** Reddit 网友讨论流媒体平台用AI生成字幕替代人工翻译/人工校对字幕，并指出这些AI字幕经常出现错误。
 
-**为什么值得看：**
-这是来自 AI 编程工具开发团队的一线实践，不是通用建议。对依赖 AI 写代码的人来说有直接参考价值。
+**为什么值得看：** 这是“节省成本 vs. 用户体验”的典型冲突——当你连剧集字幕都要开始“猜意思”的时候，平台省下的钱是否值得，就变成了用户的真实代价。具体哪些平台、错误率多高，目前还不确定。
 
-**值得程度：**
-👀 值得留意
+**值得程度：** 👀 值得留意
 
-**分类：**
-科技 / AI
+**分类：** 电影 / 互联网
 
-**来源：** https://claude.dev/blog/solving-code-review-at-anthropic/
+**来源：** [Reddit r/artificial](https://www.reddit.com/r/artificial/comments/1x8sjkb/why_are_streaming_services_replacing_perfect/)
 
 ---
 
-### 从联想记忆出发理解 Transformer
+### 退休教授因拦阻 Uber Eats 送货机器人被捕
 
-**发生了什么：**
-Alex Wang 发了一篇文章，从“联想记忆”的角度推导 Transformer 结构，标题叫 *You Could Have Invented Transformers from Memory*。
+**发生了什么：** 一位宾夕法尼亚大学退休教授因为拦阻一台Uber Eats送货机器人被警方逮捕。具体经过和原因尚未获得独立确认。
 
-**为什么值得看：**
-如果你想真正理解注意力机制，但被论文和公式劝退过，这篇文章提供了一条更直觉的路线。
+**为什么值得看：** 这是少见的“人类与机器人发生真实冲突”的案例：机器人正在进入社区，而社会规则还没有准备好如何回应。它比任何AI伦理论文都更直接地暴露了问题。
 
-**值得程度：**
-👀 值得留意
+**值得程度：** 🟡 有意思，但不重要
 
-**分类：**
-AI
+**分类：** 科技 / 互联网
 
-**来源：** https://alexwang.ai/posts/associative-memory/
+**来源：** [Reddit r/artificial](https://www.reddit.com/r/artificial/comments/1x8ijyg/retired_penn_professor_arrested_for_blocking_uber/)
 
 ---
 
-### Claude 揭示 ECDSA 曲线的来源？
+### Pele：把 Mermaid 图表变成可主题化的 SVG
 
-**发生了什么：**
-Anthropic 官网出现了一篇研究，标题为“Claude reveals ECDSA curve origins”。目前只能确认这个标题，具体内容不清楚。
+**发生了什么：** 一个叫 Pele 的开源工具，可以将 Mermaid 图表直接渲染为可定制主题的 SVG。作品展示页面已经上线。
 
-**为什么值得看：**
-如果内容确如标题所说，这是一个 AI 参与密码学溯源的少见案例。值得点进去看 Claude 到底发现了什么。
+**为什么值得看：** 看起来是个小工具，但它解决了设计中的实际痛点：技术文档里的图表终于不再长得千篇一律，可以融入品牌视觉了。对设计和技术写作重叠领域的人来说是直接有用的东西。
 
-**值得程度：**
-🟡 有意思，但不重要
+**值得程度：** 👀 值得留意
 
-**分类：**
-AI
+**分类：** 设计
 
-**来源：** https://www.anthropic.com/research/ecdsa-curve-origins
+**来源：** [pele.run](https://pele.run/)
 
 ---
 
-### 越狱 PS5 跑本地 AI：超 100 token/秒
+### 黄金成为美国第一大出口商品
 
-**发生了什么：**
-Reddit 帖子称，越狱的 PS5 现在能原生运行本地 AI 模型，fork 自 PS5LM，能调用 CPU、GPU 和更多内存，速度超过 100 token/秒。目前属于社区说法，尚未独立确认。
+**发生了什么：** 根据专业新闻网站报道，黄金目前是美国出口额最大的单一商品，超过了以往主要的出口品类。
 
-**为什么值得看：**
-游戏主机变成本地推理设备，这个画面本身就很有趣。哪怕只是实验性项目，也值得开一下眼界。
+**为什么值得看：** 这可能反映全球经济不确定性加剧——资金正在流向避险资产。虽然不是科技新闻，但它是理解接下来经济环境的重要信号，对科技行业的融资、消费市场都有间接影响。
 
-**值得程度：**
-🟡 有意思，但不重要
+**值得程度：** 🟡 有意思，但不重要
 
-**分类：**
-AI / 游戏
+**分类：** 科技 / 财经
 
-**来源：** https://www.reddit.com/r/artificial/comments/1x7ofj6/jailbroken_ps5s_can_now_run_local_ai_models_at/
-
----
-
-### Fakeipedia：给不存在的世界写百科
-
-**发生了什么：**
-Show HN 上出现了一个叫 Fakeipedia 的网站，它想做“不存在世界的维基百科”。
-
-**为什么值得看：**
-把百科形式套在虚构世界上，创意本身就有趣。适合当个开脑洞的收藏。
-
-**值得程度：**
-🟡 有意思，但不重要
-
-**分类：**
-互联网 / 设计
-
-**来源：** https://fakeipedia.org
+**来源：** [Numismatic News](https://www.numismaticnews.net/gold-now-top-u-s-export)
 
 ---
 
 ## 今天真正值得关注的 3 件事
 
-1. **Anthropic Mythos + Bank of America 的传闻**  
-   - 为什么值得关注：这是今天最像“改变 AI 安全叙事”的一条，但还没有官方确认。如果为真，意味着 AI 已经能在真实大型系统里找到海量漏洞。  
-   - 接下来值得观察什么：Anthropic、Bank of America 或相关媒体会不会给出确认；Mythos 是否会成为可公开使用的产品。
+**1. 太阳能发电量首次超越核能**
 
-2. **Accenture 给 Claude 设 29 美元月上限**  
-   - 为什么值得关注：这不是一个普通用户的订阅问题，而是大型企业开始限制 AI 支出。对 Anthropic 和整个企业级 AI 市场，这都可能是一个成本信号。  
-   - 接下来值得观察什么：Accenture 是否正式回应；其他咨询或大型企业会不会跟进类似额度；Anthropic 的定价是否会调整。
+- 为什么值得关注：全球能源结构的象征性拐点，和AI对电力的持续渴求形成了关键的时间交叉点。能源成本会直接决定AI产业的下半场竞争格局。
+- 接下来值得观察什么：这一趋势是否持续，以及它是否开始实质性地影响AI数据中心的选址和电力成本。
 
-3. **Meta Muse Spark Open 的许可证条款**  
-   - 为什么值得关注：它是开放模型，却要求“不能把输出冒充人类创作”。这个条款把 AI 生成内容的来源透明问题，从“自觉”变成了“许可要求”。  
-   - 接下来值得观察什么：模型实际质量如何；音乐创作社区和开源生态会怎么接受这种授权。
+**2. 纽约游戏所有权法案**
+
+- 为什么值得关注：这是针对“数字商品不是你的”这一问题最实在的立法尝试。如果它引发其他州的跟进，整个数字内容产业销售模式都会受到压力。
+- 接下来值得观察什么：法案能否进入正式审议流程，以及游戏发行商会如何回应（游说、修改用户协议、还是改变商业模式）。
+
+**3. AI实验室用免费维修服务换真实世界训练数据**
+
+- 为什么值得关注：一种新的AI数据采集模式出现了：免费服务换操作数据。它既聪明又有点令人不安，是“物理世界中的AI训练”值得关注的样板案例。
+- 接下来值得观察什么：这种模式会扩展到哪些更多的生活服务领域，以及用户是否愿意接受“免费服务”的隐形代价。
