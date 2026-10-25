@@ -1,12 +1,30 @@
 # 今日晨报
 
-### Moonshot AI 的 Kimi K3.1 Pro 冲到 Artificial Analysis 第四名
+### Xbox 拒了 Netflix 的 5 亿美元
 
 **发生了什么：**
-在 Artificial Analysis 模型指数中，Moonshot AI 的 Kimi K3.1 Pro 排名第四，比 Claude Opus 5.5 低 3 分。
+据 Dark Horizons 报道，Xbox 拒绝了 Netflix 提出的 5 亿美元合作或收购提案。消息称 Xbox 认为该报价与自身平台价值不匹配，也与其长期游戏战略不符。
 
 **为什么值得看：**
-国产模型已经贴到全球第一梯队边缘，差距缩小到了个位数分数。这个位置变化比大多数新品发布更值得留意。
+这是流媒体巨头与游戏平台之间的一次重大碰撞。Netflix 试图以资本进入游戏领域的意图被公开挫折，而 Xbox 对自身估值的态度也反映出游戏行业的话语权变化。
+
+**值得程度：**
+🔥 很值得看
+
+**分类：**
+游戏
+
+**来源：** https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/
+
+---
+
+### Cerebras 正式部署万亿参数级 AI 模型
+
+**发生了什么：**
+Cerebras 发布博客，宣布其硬件平台已能够部署万亿参数规模的前沿模型，并公开了相关技术方案。
+
+**为什么值得看：**
+“万亿参数”从训练走向实际部署，意味着超大规模模型的推理成本和服务方式可能迎来改变。这是 AI 基础设施层面的实质进展，不是概念演示。
 
 **值得程度：**
 🔥 很值得看
@@ -14,53 +32,89 @@
 **分类：**
 AI
 
-**来源：** [Reddit 讨论帖](https://www.reddit.com/r/artificial/comments/1xdvxi5/moonshot_ais_kimi_k31_pro_reaches_fourth_on/)
+**来源：** https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras
 
 ---
 
-### Meta 新商业条款：AI 出错，责任在客户
+### 美国媒体、电影与艺术行业已流失 20 万个工作岗位
 
 **发生了什么：**
-根据 Reddit 用户对 Meta 更新条款的讨论，Meta 新的商业条款规定：如果 Meta 的 AI 出错，法律责任由客户承担。
+Apricitas 发布数据分析，显示美国媒体、电影和艺术行业过去一段时间减少了约 20 万个工作岗位，并分析了 AI 在其中的影响占比。
 
 **为什么值得看：**
-AI 服务商开始把责任写进合同里。这件事会直接影响所有用 AI API 做业务的人——以后不能只看 demo，得先看条款。
+这是少有的、用数据直接讨论“AI 是否在消灭创意岗位”的报道，而不是停留在感觉和争论上。对你关注的电影、音乐、娱乐领域，这个趋势是绕不开的背景。
 
 **值得程度：**
 🔥 很值得看
+
+**分类：**
+电影 / 音乐 / 娱乐
+
+**来源：** https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class
+
+---
+
+### AWS AI 云容量已售罄至 2027 年
+
+**发生了什么：**
+AWS 方面表示其 AI 云容量已全部售出至 2027 年，2028 年的预订也正在快速填满。
+
+**为什么值得看：**
+这是 AI 算力需求最直接的市场信号。当最大云厂商的产能被提前两年买断，说明 AI 基础设施的供需紧张短期不会缓解，后续价格和排队问题都值得观察。
+
+**值得程度：**
+🔥 很值得看
+
+**分类：**
+科技 / 互联网
+
+**来源：** https://www.reddit.com/r/artificial/comments/1xe1mos/aws_ai_cloud_capacity_sold_out_through_2027_2028/
+
+---
+
+### Meta 新商业条款：AI 犯错，责任算客户的
+
+**发生了什么：**
+Meta 更新了面向商业客户的服务条款，其中规定：如果其 AI 产品造成错误或损失，法律责任将由客户承担，而非 Meta。
+
+**为什么值得看：**
+这是大型 AI 公司转移责任的一个标志性动作。企业客户在使用 AI 工具时需要更谨慎地评估风险，这也可能影响整个行业的责任划分模式。
+
+**值得程度：**
+👀 值得留意
 
 **分类：**
 AI / 互联网
 
-**来源：** [Reddit 讨论帖](https://www.reddit.com/r/artificial/comments/1xdngrd/metas_new_commercial_terms_say_if_its_ai_makes_a/)
+**来源：** https://www.reddit.com/r/artificial/comments/1xdngrd/metas_new_commercial_terms_say_if_its_ai_makes_a/
 
 ---
 
-### 美国银行在客户账户里发现恶意 AI 代理
+### IBM CEO：企业正转向开源模型，而非昂贵的前沿 AI
 
 **发生了什么：**
-据用户讨论和相关报道，美国银行业在客户账户中检测到了恶意 AI 代理，并开始限制访问。
+IBM CEO 在近期发言中表示，越来越多企业客户选择开放权重模型，而不是采购成本高昂的顶级前沿 AI 系统。
 
 **为什么值得看：**
-AI 代理攻击已经直接进入金融系统内部。这是安全防御从“拦人”转向“拦 AI”的早期现实案例。
+这与“ChatGPT 类闭源模型通吃”的主流叙事不同，是一个来自大厂高管的明确反方向信号。开源模型的实用性和商业可行性正在被重新评估。
 
 **值得程度：**
-🔥 很值得看
+👀 值得留意
 
 **分类：**
-AI / 科技
+AI
 
-**来源：** [Reddit 讨论帖](https://www.reddit.com/r/artificial/comments/1xd4at6/us_banks_detect_rogue_ai_agents_inside_customer/)
+**来源：** https://www.reddit.com/r/artificial/comments/1xddaiz/ibm_ceo_says_businesses_are_choosing_openweight/
 
 ---
 
-### http2shell：影响 Node、Python 等环境的 RCE 漏洞
+### Boston Dynamics 员工请愿取消向 ICE 出售 Spot 机器人
 
 **发生了什么：**
-安全公司 Aikido Security 披露了一个名为 http2shell 的远程代码执行漏洞，影响 Node、Python 等运行时环境。
+据 Reddit 帖子和相关报道，Boston Dynamics 部分员工发起请愿，要求公司取消一笔价值 130 万美元的 Spot 机器狗向 ICE（美国移民与海关执法局）的销售订单。
 
 **为什么值得看：**
-这是新出现的 RCE 漏洞，覆盖面不窄。如果你的服务跑在 Node 或 Python 上，今天值得确认自己是否受影响。
+这是科技公司员工与公司商业决策之间的一次公开冲突。机器人技术应用于执法和移民机构，涉及的伦理争议已经不只是理论层面。
 
 **值得程度：**
 👀 值得留意
@@ -68,59 +122,41 @@ AI / 科技
 **分类：**
 科技
 
-**来源：** [Aikido Security 披露帖](https://nitter.click/AikidoSecurity/status/2113759110625906950)
+**来源：** https://www.reddit.com/r/artificial/comments/1xe5pqg/boston_dynamics_employees_petition_to_cancel_13m/
 
 ---
 
-### IBM CEO：企业正在选开源权重模型，而不是昂贵的前沿 AI
+### Meta 员工称：巴西选举期间 Lula 账户曾被限制
 
 **发生了什么：**
-IBM CEO 公开表示，企业客户正在选择开源权重模型，而不是价格昂贵的顶尖闭源模型。
+据 Al Jazeera 报道，Meta 内部员工报告称，在巴西选举期间，总统 Lula 的社交媒体账户受到过限制操作。
 
 **为什么值得看：**
-这是来自大厂高层的明确判断：开源权重模型可能正在成为企业默认选择，顶尖闭源模型的商业价值会被重新评估。
+平台对政治人物的账号采取限制，涉及内容审核、权力干预和公共沟通的边界。是社交媒体与政治权力关系中值得留意的个案例证。
 
 **值得程度：**
-👀 值得留意
+🟡 有意思，但不重要
 
 **分类：**
-AI
+互联网
 
-**来源：** [Reddit 讨论帖](https://www.reddit.com/r/artificial/comments/1xddaiz/ibm_ceo_says_businesses_are_choosing_openweight/)
-
----
-
-### OpenAI 公开前沿模型训练环境的安全做法
-
-**发生了什么：**
-OpenAI 发布文章，介绍了他们在保护前沿模型训练环境方面采取的安全措施。
-
-**为什么值得看：**
-这是少数能看到前沿模型训练设施安全设计细节的机会。对做 AI 基础设施或关注模型安全的人来说，参考价值很高。
-
-**值得程度：**
-👀 值得留意
-
-**分类：**
-AI / 科技
-
-**来源：** [OpenAI 官方文章](https://openai.com/index/securing-our-frontier-model-training-environment/)
+**来源：** https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report
 
 ---
 
 ## 今天真正值得关注的 3 件事
 
-**1. Meta 把 AI 出错的责任划给了客户**
+**1. Cerebras 部署万亿参数模型**
 
-为什么值得关注：这可能是 AI 合同里一个标志性的免责变化。以后 AI 公司可以卖产品，但不承担错误后果，客户需要自己兜底。
-接下来值得观察：OpenAI、Google 的商用条款会不会跟进。如果跟进，AI 服务的风险模型会彻底改变。
+为什么值得关注：当万亿参数模型可以在专用硬件上实际运行而非停留在论文里，AI 应用的想象空间会明显扩大。
+接下来值得观察：这种部署成本是否会快速下降，以及是否会有更多模型厂商采用类似的专用硬件路线。
 
-**2. 美国银行开始拦截恶意 AI 代理**
+**2. 美国创意行业岗位流失 20 万**
 
-为什么值得关注：AI 代理已经不只是写诗和写代码，而是开始直接攻击银行账户。安全问题的性质从“工具被滥用”变成了“AI 被用来对抗系统”。
-接下来值得观察：这次事件会不会推动金融系统对自动化访问做更严格的身份验证，以及会不会有更多类似攻击被公开。
+为什么值得关注：这是目前少见的、把 AI 影响和就业数据联系在一起的具体分析。对于电影、音乐、娱乐行业的从业者和关注者来说，这是切身相关的结构变化。
+接下来值得观察：流失的岗位里有多少能明确归因于 AI，以及行业是否会出现新的补偿或保障机制。
 
-**3. Kimi K3.1 Pro 走进第一梯队边缘**
+**3. AWS AI 容量售罄**
 
-为什么值得关注：中国模型已经追到距 Claude Opus 5.5 只差 3 分的位置。第一梯队的门槛正在变得模糊。
-接下来值得观察：这个分数差距会不会继续缩小，以及国产模型接下来能不能在真实使用场景里站稳。
+为什么值得关注：头部云厂商的产能提前售罄，说明 AI 需求不是营销概念，而是真实的上游瓶颈。
+接下来值得观察：客户会转向其他云厂商还是自建算力，供需紧张是否会进一步推高价格。
