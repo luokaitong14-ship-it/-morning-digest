@@ -1,12 +1,14 @@
 # 今日晨报
 
-### Gemini 4 Carbon 登顶 Artificial Analysis V5
+# 今日晨报
+
+### GLM 5.3 能自主攻破新版 Firefox
 
 **发生了什么：**
-Google 的 Gemini 4 Carbon 在 Artificial Analysis V5 基准测试中排名第一。消息来自 Reddit 人工智能板块的讨论。
+一项测试显示，智谱的 GLM 5.3 能够自主利用 Mozilla Firefox 较新版本的漏洞完成攻破。目前该消息尚未得到独立确认。
 
 **为什么值得看：**
-模型能力排名的每一次更迭，都直接影响开发者和企业下一步选型方向。
+这是少见的“AI 模型独立完成攻击链”案例，如果属实，意味着大模型在真实网络攻击中的威胁比我们想象的更直接。
 
 **值得程度：**
 🔥 很值得看
@@ -14,17 +16,15 @@ Google 的 Gemini 4 Carbon 在 Artificial Analysis V5 基准测试中排名第�
 **分类：**
 AI
 
-**来源：** https://www.reddit.com/r/artificial/comments/1xhuemz/gemini_4_carbon_ranks_1_on_artificial_analysis_v5/
+**来源：** https://www.reddit.com/r/artificial/comments/1xiyu6e/glm_53_can_autonomously_compromise_recent/
 
----
-
-### OpenAI 据报道计划购买谷歌 TPU
+### 报告：31岁女性因听从 ChatGPT 建议减少癫痫药后死亡
 
 **发生了什么：**
-有报道称，OpenAI 正计划购买谷歌的 AI 芯片（TPU）。两家在 AI 领域正面竞争的公司，可能成为彼此的供应商。
+一份报告将一名31岁女性的死亡，与她听从 ChatGPT 建议减少癫痫药物关联起来。目前相关细节仍需权威部门进一步披露。
 
 **为什么值得看：**
-如果属实，这会改变 AI 芯片市场的竞争格局，对英伟达的统治地位构成潜在挑战。不过消息尚未得到独立确认。
+这是一个被正式记录的真实伤害案例，提醒我们不要把大模型当作医疗建议来源。
 
 **值得程度：**
 🔥 很值得看
@@ -32,164 +32,148 @@ AI
 **分类：**
 AI
 
-**来源：** https://www.reddit.com/r/artificial/comments/1xhzycw/openai_reportedly_plans_to_buy_googles_ai_chips/
+**来源：** https://www.reddit.com/r/artificial/comments/1xiwxih/31yearold_woman_reduced_epilepsy_medication_after/
 
----
-
-### GitHub 宣布 Copilot 重大改革，全面转向 agentic 方向
+### Reddit 将强制所有用户登录
 
 **发生了什么：**
-GitHub 官方宣布对 Copilot 进行重大架构调整，核心方向是"演进"到一个以 agent 为中心的未来。
+据 Reddit 上的消息，Reddit 将强制所有用户登录后才能浏览内容。官方具体执行时间尚未明确公布。
 
 **为什么值得看：**
-Copilot 是最主流的 AI 编程工具之一，这次改革将直接影响数百万开发者的日常工作流，也代表了 GitHub 对 AI 编程下一阶段的判断。
+匿名浏览 Reddit 将成为历史，这是数字生活里一个影响面很大的平台级变化。
 
 **值得程度：**
 🔥 很值得看
-
-**分类：**
-科技
-
-**来源：** https://www.reddit.com/r/artificial/comments/1xi0dcg/github_just_announced_a_major_overhaul_of_copilot/
-
----
-
-### Claude Code 被曝将后台代理的完整转录发送给模型
-
-**发生了什么：**
-有开发者发布分析称，Claude Code 会定期将每个后台代理（background agent）的完整转录发送回模型处理。
-
-**为什么值得看：**
-这涉及 AI 编码工具的透明度和隐私问题，也让人重新审视"后台代理"到底在做什么、开发者是否知情。
-
-**值得程度：**
-👀 值得留意
-
-**分类：**
-AI
-
-**来源：** https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce
-
----
-
-### StackOverflow 月提问量跌破 1000
-
-**发生了什么：**
-根据 Stack Exchange Data Explorer 的查询数据，StackOverflow 目前每月的提问数量已经不足 1000 个。
-
-**为什么值得看：**
-这是 AI 编程助手冲击开发者社区的一个直观数字信号——最大的编程问答社区正在快速萎缩，长期趋势值得关注。
-
-**值得程度：**
-👀 值得留意
 
 **分类：**
 互联网
 
-**来源：** https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1
+**来源：** https://www.reddit.com/r/artificial/comments/1xj2qw1/reddit_will_force_everyone_to_log_in/
 
----
-
-### 英国用 AI 总结庇护面谈，抽查发现五分之一摘要不合格
+### 微软首次披露 Azure 真实收入：332 亿美元
 
 **发生了什么：**
-英国方面使用 AI 系统总结难民庇护面谈内容，在抽查中有约五分之一的 AI 生成摘要被判定为不合格。
+据 TechCrunch 报道，微软刚刚披露 Azure 的实际收入为 332 亿美元，此前它一直未单独公开这个数字。
 
 **为什么值得看：**
-这是 AI 在公共治理和司法场景中实际落地的一个案例，直接展示了高风险场景下 AI 可靠性的现实边界。
+外界终于可以直接看到 Azure 的真实规模，这是评估微软云和 AI 业务成色的关键数据。
 
 **值得程度：**
 👀 值得留意
-
-**分类：**
-AI
-
-**来源：** https://www.reddit.com/r/artificial/comments/1xhnkxt/uk_uses_ai_to_summarise_asylum_interviews_one_in/
-
----
-
-### Qwenputer：在 Qwen3.5 里跑一个 RISC-V CPU
-
-**发生了什么：**
-有开发者发布了一个项目，在 Qwen3.5 模型内部实现了一个功能完整、确定性的 RISC-V CPU，名为 Qwenputer。
-
-**为什么值得看：**
-把 CPU 实现在神经网络里，模糊了硬件与软件的边界。属于那种纯粹让人开眼界的极客作品。
-
-**值得程度：**
-🟡 有意思，但不重要
 
 **分类：**
 科技
 
-**来源：** https://divagr.com/blog/qwenputer
+**来源：** https://www.reddit.com/r/artificial/comments/1xinf2c/microsoft_just_shared_azures_actual_revenue_in/
 
----
-
-### 研究发现 LLM 比人类审稿人更擅长发现论文错误
+### Modder 破解 NVIDIA RTX 20/30/40 系显卡隐藏 AI 性能
 
 **发生了什么：**
-据 Reddit 帖子，一项研究显示 LLM 在发现论文中的错误方面，表现显著优于经过训练的人类审稿人。
+社区通过非官方改动解锁了 RTX 20、30、40 系显卡的隐藏 AI 算力，部分基准测试成绩接近翻倍。这仍是第三方实验，NVIDIA 官方没有回应。
 
 **为什么值得看：**
-如果结论成立，AI 审稿可能很快进入学术出版流程，这会极大改变学术界的审稿机制和效率。
+说明老显卡可能还有官方没有释放的 AI 潜力，不过对普通用户来说也存在稳定性和保修风险。
 
 **值得程度：**
 👀 值得留意
 
 **分类：**
-AI
+科技
 
-**来源：** https://www.reddit.com/r/artificial/comments/1xi1fg7/llms_are_significantly_better_at_finding_mistakes/
+**来源：** https://www.reddit.com/r/artificial/comments/1xingp7/modders_unlock_hidden_ai_power_on_nvidia_rtx_20/
 
----
-
-### 约会应用开始用合并图像让陌生人评判用户是否"般配"
+### 一人工作室用 AI 智能体在 20 天内做出 FPS Steam Demo
 
 **发生了什么：**
-一个约会应用推出了新功能：生成两个用户的合并图像，让陌生人判断他们看起来是否合适。
+一位独立开发者用 AI 智能体辅助编程，在 20 个工作日内完成了一款 12 章 FPS 的 Steam Demo，并分享了哪些部分 AI 能完成、哪些不能。
 
 **为什么值得看：**
-把 AI 图像生成用在婚恋配对场景，既新鲜又容易引发关于匹配逻辑、隐私和"外貌至上"的讨论。
+这是个人开发者使用 AI 生产力上限的一次真实测试，能让我们看到“AI 编程”目前在实际项目中到底能做到什么程度。
+
+**值得程度：**
+🔥 很值得看
+
+**分类：**
+AI / 游戏
+
+**来源：** https://www.reddit.com/r/artificial/comments/1xikfco/a_oneperson_studio_shipped_a_steam_demo_of_a/
+
+### YC 实验室在《我的世界》《Mindustry》里跑 AI 智能体集群
+
+**发生了什么：**
+Y Combinator 的实验室发布了一个实验项目：在《Minecraft》和《Mindustry》中运行 AI agent 集群，观察它们如何协作。
+
+**为什么值得看：**
+用游戏环境测试智能体协作，是观察 AI 群体行为低成本但很有信息量的方式。
+
+**值得程度：**
+👀 值得留意
+
+**分类：**
+游戏 / AI
+
+**来源：** https://labs.ycombinator.com/projects/games/index.html
+
+### 富士胶片投资 6300 万美元，将 100TB 磁带产量提升 5 倍
+
+**发生了什么：**
+富士胶片计划投资约 6300 万美元，将 100TB 磁带的产量提高约 5 倍，原因是对 AI 存储需求激增。这也是磁带领域 20 年来最大规模的投资。
+
+**为什么值得看：**
+AI 正在推动冷存储需求，让一度被认为过时的磁带重新变成高增长市场，这是一个反直觉的行业变化。
+
+**值得程度：**
+👀 值得留意
+
+**分类：**
+科技
+
+**来源：** https://www.reddit.com/r/artificial/comments/1xivhhm/fujifilm_plans_5x_production_boost_of_100tb/
+
+### 把《毁灭战士》做成了 Transformer
+
+**发生了什么：**
+一位开发者发布了一个开源项目 DOOMformer，将经典游戏《毁灭战士》做成了 Transformer 模型。
+
+**为什么值得看：**
+游戏和机器学习模型之间的互相转化，是那种“没想到还能这样”的开脑洞内容。
 
 **值得程度：**
 🟡 有意思，但不重要
 
 **分类：**
-互联网
+AI / 游戏
 
-**来源：** https://www.reddit.com/r/artificial/comments/1xiavmi/dating_app_is_generating_a_merged_image_of_two/
+**来源：** https://github.com/mottopanikeiku/doomformer
 
----
-
-### Formlabs 发布 699 美元的 Studio 1 树脂打印机
+### 《红猪》：一头猪、国家与战争
 
 **发生了什么：**
-Formlabs 推出了新款入门级树脂 3D 打印机 Studio 1，Founder's Edition 售价 699 美元。
+Animation Studies 期刊上有一篇深度文章，以宫崎骏的《红猪》为对象，分析主角所处的政治与战争背景，以及“猪”这个形象背后的表达。这是一篇 2014 年的旧文，不是当天新闻。
 
 **为什么值得看：**
-Formlabs 一向以专业级设备为主，这次把价格拉到消费级区间，对设计师、创客和手办玩家来说是个值得关注的新选项。
+《红猪》常被当作一部轻松的飞行动画，这篇解读提供了一个完全不同的观看视角，适合喜欢宫崎骏的人。
 
 **值得程度：**
 🟡 有意思，但不重要
 
 **分类：**
-设计
+电影
 
-**来源：** https://formlabs.com/products/form-studio-1-basic-founders-edition/
+**来源：** https://journal.animationstudies.org/article/id/66/
 
 ---
 
 ## 今天真正值得关注的 3 件事
 
-**1. OpenAI 计划购买谷歌 TPU**
+**1. GLM 5.3 能自主攻破新版 Firefox**
 
-为什么值得关注：如果坐实，这会是 AI 芯片格局的一次标志性变化——两个正面竞争的巨头开始成为彼此的供应商。接下来值得观察：OpenAI 和谷歌官方是否会确认消息，以及这是否会影响英伟达的市场地位。
+如果被独立复现，这会是大模型在真实网络安全威胁上的一个标志性节点。接下来值得观察：是否有更多安全团队验证该结果，以及浏览器厂商会如何应对。
 
-**2. Gemini 4 Carbon 登顶基准排名**
+**2. 报告：31岁女性死亡与 ChatGPT 建议关联**
 
-为什么值得关注：模型能力竞争再次出现新的领跑者，这会影响大量开发者和企业的模型选择。接下来值得观察：OpenAI 和 Anthropic 会如何回应，基准排名能否保持稳定。
+这是 AI 进入医疗建议领域后一个被正式记录的事故样本，直接影响人们对“AI 当医生”这件事的警惕程度。接下来值得观察：监管是否会介入，以及 AI 平台是否会因此调整医疗相关回答的限制。
 
-**3. GitHub Copilot 全面转向 agentic**
+**3. Reddit 强制所有用户登录**
 
-为什么值得关注：这意味着 AI 编程正在从"辅助补全"走向"自主执行"，而且是由最主流的开发者平台推动的。接下来值得观察：新架构下的 Copilot 具体有哪些变化，开发者的实际体验如何。
+这会改变上亿人的浏览方式，也意味着匿名访问 Reddit 的时代结束。接下来值得观察：具体执行时间，以及它对外部搜索、第三方工具生态的影响。
