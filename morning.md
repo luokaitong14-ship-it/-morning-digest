@@ -1,14 +1,14 @@
 # 今日晨报
 
-# 今日晨报
+# 每日科技晨报
 
-### GLM 5.3 能自主攻破新版 Firefox
+### OpenAI 最新一轮融资未达目标
 
 **发生了什么：**
-一项测试显示，智谱的 GLM 5.3 能够自主利用 Mozilla Firefox 较新版本的漏洞完成攻破。目前该消息尚未得到独立确认。
+据《华尔街日报》报道，OpenAI 最新一轮融资目标为 300 亿美元，实际筹集金额不足一半。
 
 **为什么值得看：**
-这是少见的“AI 模型独立完成攻击链”案例，如果属实，意味着大模型在真实网络攻击中的威胁比我们想象的更直接。
+OpenAI 是整个 AI 浪潮的晴雨表，融资结果明显低于预期，可能意味着资本开始对巨额 AI 投入变得谨慎。
 
 **值得程度：**
 🔥 很值得看
@@ -16,111 +16,71 @@
 **分类：**
 AI
 
-**来源：** https://www.reddit.com/r/artificial/comments/1xiyu6e/glm_53_can_autonomously_compromise_recent/
+**来源：** https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5
 
-### 报告：31岁女性因听从 ChatGPT 建议减少癫痫药后死亡
+---
+
+### Alphabet 市值单日蒸发 5000 亿美元
 
 **发生了什么：**
-一份报告将一名31岁女性的死亡，与她听从 ChatGPT 建议减少癫痫药物关联起来。目前相关细节仍需权威部门进一步披露。
+Reddit 帖子转述相关报道称，Alphabet（谷歌母公司）股价遭遇有史以来最严重的单日下跌，市值蒸发约 5000 亿美元。
 
 **为什么值得看：**
-这是一个被正式记录的真实伤害案例，提醒我们不要把大模型当作医疗建议来源。
+一天跌掉 5000 亿美元，这是科技股历史上罕见的剧烈波动，背后反映市场对 AI 投资回报和科技股整体估值的深层担忧。
 
 **值得程度：**
 🔥 很值得看
 
 **分类：**
-AI
+科技
 
-**来源：** https://www.reddit.com/r/artificial/comments/1xiwxih/31yearold_woman_reduced_epilepsy_medication_after/
+**来源：** https://www.reddit.com/r/artificial/comments/1xj9zau/googles_parent_company_alphabet_shares_record/
 
-### Reddit 将强制所有用户登录
+---
+
+### Scribd 疑遭数据泄露
 
 **发生了什么：**
-据 Reddit 上的消息，Reddit 将强制所有用户登录后才能浏览内容。官方具体执行时间尚未明确公布。
+Hacker News 上有用户发布消息，称文档分享平台 Scribd 遭到数据泄露。目前这一说法尚未得到官方确认。
 
 **为什么值得看：**
-匿名浏览 Reddit 将成为历史，这是数字生活里一个影响面很大的平台级变化。
+Scribd 上存有大量用户上传的文档和个人数据，如果泄露属实，波及面可能不小。
 
 **值得程度：**
-🔥 很值得看
+👀 值得留意
 
 **分类：**
 互联网
 
-**来源：** https://www.reddit.com/r/artificial/comments/1xj2qw1/reddit_will_force_everyone_to_log_in/
+**来源：** https://news.ycombinator.com/item?id=50312756
 
-### 微软首次披露 Azure 真实收入：332 亿美元
+---
 
-**发生了什么：**
-据 TechCrunch 报道，微软刚刚披露 Azure 的实际收入为 332 亿美元，此前它一直未单独公开这个数字。
-
-**为什么值得看：**
-外界终于可以直接看到 Azure 的真实规模，这是评估微软云和 AI 业务成色的关键数据。
-
-**值得程度：**
-👀 值得留意
-
-**分类：**
-科技
-
-**来源：** https://www.reddit.com/r/artificial/comments/1xinf2c/microsoft_just_shared_azures_actual_revenue_in/
-
-### Modder 破解 NVIDIA RTX 20/30/40 系显卡隐藏 AI 性能
+### OpenAI 与 Anthropic 声称 AI 破解计算机科学 27 年难题
 
 **发生了什么：**
-社区通过非官方改动解锁了 RTX 20、30、40 系显卡的隐藏 AI 算力，部分基准测试成绩接近翻倍。这仍是第三方实验，NVIDIA 官方没有回应。
+Reddit 上有人转述称，OpenAI 和 Anthropic 声称 AI 已经解决了一个存在 27 年的计算机科学基础性问题。目前该声明尚未得到独立验证，具体内容尚不清楚。
 
 **为什么值得看：**
-说明老显卡可能还有官方没有释放的 AI 潜力，不过对普通用户来说也存在稳定性和保修风险。
-
-**值得程度：**
-👀 值得留意
-
-**分类：**
-科技
-
-**来源：** https://www.reddit.com/r/artificial/comments/1xingp7/modders_unlock_hidden_ai_power_on_nvidia_rtx_20/
-
-### 一人工作室用 AI 智能体在 20 天内做出 FPS Steam Demo
-
-**发生了什么：**
-一位独立开发者用 AI 智能体辅助编程，在 20 个工作日内完成了一款 12 章 FPS 的 Steam Demo，并分享了哪些部分 AI 能完成、哪些不能。
-
-**为什么值得看：**
-这是个人开发者使用 AI 生产力上限的一次真实测试，能让我们看到“AI 编程”目前在实际项目中到底能做到什么程度。
+如果属实，这可能是 AI 对理论计算机科学的一次标志性突破；但正因为还没被证实，需要谨慎关注后续验证。
 
 **值得程度：**
 🔥 很值得看
 
 **分类：**
-AI / 游戏
+AI
 
-**来源：** https://www.reddit.com/r/artificial/comments/1xikfco/a_oneperson_studio_shipped_a_steam_demo_of_a/
+**来源：** https://www.reddit.com/r/artificial/comments/1xjqc40/ai_cracks_a_27yearold_pillar_of_computer_science/
 
-### YC 实验室在《我的世界》《Mindustry》里跑 AI 智能体集群
+---
 
-**发生了什么：**
-Y Combinator 的实验室发布了一个实验项目：在《Minecraft》和《Mindustry》中运行 AI agent 集群，观察它们如何协作。
-
-**为什么值得看：**
-用游戏环境测试智能体协作，是观察 AI 群体行为低成本但很有信息量的方式。
-
-**值得程度：**
-👀 值得留意
-
-**分类：**
-游戏 / AI
-
-**来源：** https://labs.ycombinator.com/projects/games/index.html
-
-### 富士胶片投资 6300 万美元，将 100TB 磁带产量提升 5 倍
+### 最古老的冰在消失，石器时代从中浮现
 
 **发生了什么：**
-富士胶片计划投资约 6300 万美元，将 100TB 磁带的产量提高约 5 倍，原因是对 AI 存储需求激增。这也是磁带领域 20 年来最大规模的投资。
+据 Science Norway 报道，随着最古老冰层的融化，石器时代的遗迹正在重新显露出来。
 
 **为什么值得看：**
-AI 正在推动冷存储需求，让一度被认为过时的磁带重新变成高增长市场，这是一个反直觉的行业变化。
+气候变化让冰川消退，同时也打开了新的考古窗口。这类发现会随着冰层消失而越来越多，是一条有长期趋势意义的线索。
 
 **值得程度：**
 👀 值得留意
@@ -128,52 +88,92 @@ AI 正在推动冷存储需求，让一度被认为过时的磁带重新变成�
 **分类：**
 科技
 
-**来源：** https://www.reddit.com/r/artificial/comments/1xivhhm/fujifilm_plans_5x_production_boost_of_100tb/
+**来源：** https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921
 
-### 把《毁灭战士》做成了 Transformer
+---
+
+### 向帕特里克·斯图尔特致敬的《星际迷航：下一代》猜剧集游戏
 
 **发生了什么：**
-一位开发者发布了一个开源项目 DOOMformer，将经典游戏《毁灭战士》做成了 Transformer 模型。
+一个名为 TNG Episodle 的网站发布了一款猜《星际迷航：下一代》剧集的游戏，专门致敬帕特里克·斯图尔特。
 
 **为什么值得看：**
-游戏和机器学习模型之间的互相转化，是那种“没想到还能这样”的开脑洞内容。
+把猜剧集做成轻量网页游戏，适合粉丝和喜欢互动娱乐的人随手玩一把。
 
 **值得程度：**
 🟡 有意思，但不重要
 
 **分类：**
-AI / 游戏
+游戏
 
-**来源：** https://github.com/mottopanikeiku/doomformer
+**来源：** https://tng.episodle.com/
 
-### 《红猪》：一头猪、国家与战争
+---
+
+### 儒勒·凡尔纳的一部失传小说
 
 **发生了什么：**
-Animation Studies 期刊上有一篇深度文章，以宫崎骏的《红猪》为对象，分析主角所处的政治与战争背景，以及“猪”这个形象背后的表达。这是一篇 2014 年的旧文，不是当天新闻。
+一个网站上线了关于儒勒·凡尔纳一部失传小说的介绍，具体内容可以在页面中看到。
 
 **为什么值得看：**
-《红猪》常被当作一部轻松的飞行动画，这篇解读提供了一个完全不同的观看视角，适合喜欢宫崎骏的人。
+凡尔纳的科幻作品启发了无数后来者，一部失传文本本身就自带足够的好奇心。
 
 **值得程度：**
 🟡 有意思，但不重要
 
 **分类：**
-电影
+娱乐
 
-**来源：** https://journal.animationstudies.org/article/id/66/
+**来源：** https://blue-continuum.com/verne-paris
+
+---
+
+### Sam Altman 说你的 PC 有 RAM 是“很糟糕的”
+
+**发生了什么：**
+Reddit 上转述了 OpenAI CEO Sam Altman 的评论，他认为个人电脑配备 RAM“相当糟糕”，因为数据中心能提供更好的利用率。
+
+**为什么值得看：**
+作为 OpenAI 的负责人，这种“数据中心优先”的观点会影响未来 AI 产品的形态讨论，也让人重新思考本地算力的意义。
+
+**值得程度：**
+🟡 有意思，但不重要
+
+**分类：**
+AI
+
+**来源：** https://www.reddit.com/r/artificial/comments/1xjpdqk/openai_ceo_sam_altman_says_its_quite_terrible_for/
+
+---
+
+### 为什么所有 AI 界面仍然只是一个文本框？
+
+**发生了什么：**
+Reddit 上出现了一个讨论帖，提问：为什么现在的 AI 界面几乎都还是一个文本框？
+
+**为什么值得看：**
+这个问题的背后是 AI 产品在交互设计上缺乏突破，对设计从业者和产品人都值得想一想。
+
+**值得程度：**
+👀 值得留意
+
+**分类：**
+设计
+
+**来源：** https://www.reddit.com/r/artificial/comments/1xjgy47/why_is_every_ai_interface_still_just_a_text_box/
 
 ---
 
 ## 今天真正值得关注的 3 件事
 
-**1. GLM 5.3 能自主攻破新版 Firefox**
+**1. OpenAI 融资未达目标**
+- 值得关注：OpenAI 是 AI 行业的头部玩家，融资结果明显低于目标，说明这轮 AI 投资热可能开始降温。
+- 接下来值得观察：OpenAI 是否会调整研发和扩张节奏，其他头部 AI 公司的融资与估值是否也会受影响。
 
-如果被独立复现，这会是大模型在真实网络安全威胁上的一个标志性节点。接下来值得观察：是否有更多安全团队验证该结果，以及浏览器厂商会如何应对。
+**2. Alphabet 市值单日蒸发 5000 亿美元**
+- 值得关注：这是科技巨头少见的单日巨幅下跌，直接反映市场对 AI 投入产出比和科技股估值的集中重估。
+- 接下来值得观察：科技股是继续下探还是出现修复，谷歌会如何对外解释自己的 AI 资本支出。
 
-**2. 报告：31岁女性死亡与 ChatGPT 建议关联**
-
-这是 AI 进入医疗建议领域后一个被正式记录的事故样本，直接影响人们对“AI 当医生”这件事的警惕程度。接下来值得观察：监管是否会介入，以及 AI 平台是否会因此调整医疗相关回答的限制。
-
-**3. Reddit 强制所有用户登录**
-
-这会改变上亿人的浏览方式，也意味着匿名访问 Reddit 的时代结束。接下来值得观察：具体执行时间，以及它对外部搜索、第三方工具生态的影响。
+**3. AI 声称破解 27 年计算机科学难题**
+- 值得关注：如果属实，这会是 AI 对基础科学的重大突破，但该说法目前没有独立确认，所以需要格外谨慎。
+- 接下来值得观察：OpenAI 和 Anthropic 是否会公开具体细节，学术和工程界是否会出现验证或反驳。
