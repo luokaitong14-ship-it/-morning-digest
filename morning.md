@@ -1,162 +1,143 @@
 # 今日晨报
 
-### DeepSeek 开源了一个“超级 Agent”编码原型
+以下是今日筛选出的晨报内容，共 7 条。
 
-**发生了什么：**
-DeepSeek 开源了一个 super-agent 编码原型，采用一个 Router 调度多个 Worker 的架构，目标是在最少人工介入下完成编码任务。
-
-**为什么值得看：**
-这是开源社区少见的完整 Agent 编码框架。之前这类产品都是闭源商业化的，开源版本可能会催生大量二次开发和低成本复现。
-
-**值得程度：**
-🔥 很值得看
-
-**分类：**
-AI
-
-**来源：** [Reddit 讨论帖](https://www.reddit.com/r/artificial/comments/1xlc9ye/deepseek_opensources_a_superagent_coding/)
+### 为记录而保留的条目说明
+此次新闻列表中，有两条从不同角度触及“OpenAI 降温”主题：融资目标下调、SEC 反对 IPO 的观点文章。考虑到相关性和重要性，我将其合并为一条来分析，其余按价值单选。
 
 ---
 
-### Grok Bot 用户一夜用光一周配额，马斯克说“agent 太贵了”
+### Apple Intelligence 中国版将采用阿里 Qwen 模型
 
 **发生了什么：**
-大量 Grok Bot 用户在一夜间消耗完整周的用量配额。马斯克对此回应称，该 agent 运行成本过高。
+据红迪社区帖子，苹果在中国大陆的 Apple Intelligence 功能将接入阿里云通义千问（Qwen）模型，测试预计于 11 月 4 日开始。此消息目前尚未得到苹果或阿里巴巴的正式官方确认。
 
 **为什么值得看：**
-这是 AI agent 商业化困境的一个罕见直接证据。连 xAI 自己都承认 agent 推理成本撑不住，说明这个赛道离大规模赚钱还有距离。
+若属实，这是苹果在中文 AI 助手领域的关键落地，直接解决国行 iPhone 缺乏大模型支持的问题，同时也意味着阿里在 AI to C 市场获得重要入口。
 
 **值得程度：**
 🔥 很值得看
-
-**分类：**
-AI
-
-**来源：** [Reddit 讨论帖](https://www.reddit.com/r/artificial/comments/1xlfd9v/grok_bot_users_ran_out_of_a_weeks_usage_overnight/)
-
----
-
-### OpenAI 开始限制每个设备/支付卡的付费 ChatGPT 账户数量
-
-**发生了什么：**
-OpenAI 正在限制同一设备和同一张支付卡可以开通的付费 ChatGPT 账户数量。具体限额和判定方式不确定。
-
-**为什么值得看：**
-这说明 OpenAI 开始打击账号共享和“小号”行为。对有多账号需求的用户会直接受影响，也反映出付费账号滥用问题已经严重到需要平台出手。
-
-**值得程度：**
-👀 值得留意
 
 **分类：**
 AI / 互联网
 
-**来源：** [Reddit 讨论帖](https://www.reddit.com/r/artificial/comments/1xlfdof/openai_is_now_capping_how_many_paid_chatgpt/)
+**来源：** [Reddit 讨论帖](https://www.reddit.com/r/artificial/comments/1xmhyjf/apple_intelligence_in_china_will_run_on_alibabas/)
 
----
 
-### AI 粉丝维基错误泛滥，正在污染游戏文化
+### Marvell 签下 1150 亿美元 AI 芯片协议
 
 **发生了什么：**
-Eurogamer 报道称，AI 生成的粉丝维基站点中大量存在错误信息，这些内容正在干扰玩家获取准确的游戏资料。
+Marvell 公司与客户签署了一项价值 1150 亿美元的定制 AI 芯片长期协议，被外界视为半导体行业史上最大单笔订单之一，远超此前多数分析预期。
 
 **为什么值得看：**
-游戏玩家查攻略、查剧情设定越来越依赖维基类站点。如果 AI 生成的内容不可靠又难以辨别，整个游戏社区的知识生态会受到直接伤害。
+这笔交易说明定制 AI 芯片市场需求依然极其旺盛，也反映出 AI 算力军备竞赛并未因资本降温而停止。
 
 **值得程度：**
-👀 值得留意
+🔥 很值得看
+
+**分类：**
+科技 / AI
+
+**来源：** [Reddit 讨论帖](https://www.reddit.com/r/artificial/comments/1xmkk63/marvell_inks_recordbreaking_115b_ai_deal/)
+
+
+### 近一半 Steam 新游戏使用了 AI
+
+**发生了什么：**
+有 Reddit 用户引用数据称，Steam 平台上新发布的游戏中使用 AI 工具的比例已接近 50%，涵盖 AI 生成美术、剧情、配音辅助等多个环节。
+
+**为什么值得看：**
+这是游戏产业生产方式发生结构性变化的直观信号，意味着 AI 不再是少数团队的工具，而正成为游戏开发的基础设施。
+
+**值得程度：**
+🔥 很值得看
 
 **分类：**
 游戏 / AI
 
-**来源：** [Eurogamer](https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture)
+**来源：** [Reddit 讨论帖](https://www.reddit.com/r/artificial/comments/1xm0tga/almost_half_of_all_new_steam_games_use_ai_now/)
 
----
 
-### 密歇根州将试点 AI 监狱分类系统
+### Intel 股价崩盘加剧，芯片行业 3.5 万亿美元市值蒸发
 
 **发生了什么：**
-密歇根州将从 12 月 1 日起试点一套新的监狱分类系统，目标是让暴力风险预测准确率提升 30%。
+Intel 股价持续下跌，同时整个芯片板块市值大幅缩水，近一段时间以来已合计损失约 3.5 万亿美元，引发市场对芯片周期见顶的担忧。
 
 **为什么值得看：**
-AI 开始进入司法量刑和监狱管理环节，直接影响犯人的分级和处遇。准确率提升 30% 还是目标，实际效果需要看试点数据。
+这不仅是 Intel 一家公司的困境，更可能是整个半导体行业从高增长转向回调的信号，对 AI 产业上游的投资节奏有直接指示意义。
+
+**值得程度：**
+🔥 很值得看
+
+**分类：**
+科技
+
+**来源：** [Yahoo Finance](https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html)
+
+
+### Cloudflare 出现多个服务故障
+
+**发生了什么：**
+Cloudflare 状态页面显示其正在经历多个活跃服务中断事件，影响范围涉及 CDN、DNS 等核心服务。目前官方尚未公布具体受影响用户数量与完整恢复时间。
+
+**为什么值得看：**
+Cloudflare 是全球主要网站基础设施之一，它的异常直接影响大量网站和数字服务的可用性，属于互联网运行层面的重要波动。
 
 **值得程度：**
 👀 值得留意
 
 **分类：**
-AI / 科技
+互联网
 
-**来源：** [Reddit 讨论帖](https://www.reddit.com/r/artificial/comments/1xlqr10/michigan_will_pilot_a_prison_classification/)
+**来源：** [Cloudflare 状态页](https://www.cloudflarestatus.com/)
 
----
 
-### 首尔半导体开始量产无稀土白光发射器
+### DiscImageStudio：把图像烧录到光盘上的开源工具
 
 **发生了什么：**
-首尔半导体（Seoul Viosys）宣布开始量产不含稀土元素的白光发射器。
+一个名为 DiscImageStudio 的开源项目，允许用户在 CD、DVD 和蓝光光盘上烧录可见的艺术图案，将普通光盘变成可展示的画布。
 
 **为什么值得看：**
-稀土供应链是全球科技产业最敏感的环节之一。无稀土光源实现量产，对下游照明、显示行业的供应链安全有长期意义。
+它在物理媒介上做视觉创作，把光存储和设计结合在一起，既怀旧又有趣味，适合对实体媒介设计感兴趣的人。
 
 **值得程度：**
 👀 值得留意
 
 **分类：**
-科技
+设计 / 科技
 
-**来源：** [Semiconductor Today](https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml)
+**来源：** [GitHub 仓库](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
 
----
 
-### Trigger.dev 发生安全事件，客户环境变量被暴露
-
-**发生了什么：**
-开发者平台 Trigger.dev 发布安全公告，确认有客户环境变量遭到暴露。具体影响范围和修复情况暂时不确定。
-
-**为什么值得看：**
-如果你或你的团队在用 Trigger.dev，需要立刻检查密钥和凭证是否泄露。这类平台性安全事故波及的不只是单个用户。
-
-**值得程度：**
-🟡 有意思，但不重要
-
-**分类：**
-科技 / 互联网
-
-**来源：** [Trigger.dev 官方公告](https://trigger.dev/blog/security-incident-nov-2026)
-
----
-
-### 骨骼可能释放蛋白质，延缓衰老并延长寿命
+### OpenAI 融资目标下调，AI 投资热潮出现退烧迹象
 
 **发生了什么：**
-Science 报道称，骨骼可能会释放某些蛋白质，从而减缓衰老过程并延长寿命。这项发现仍处于早期研究阶段，细节尚不明确。
+有 Reddit 帖子称 OpenAI 降低了新一轮融资目标，同时引述观点认为 AI 技能在快速进步，但资本市场投入正在收缩。另外，Tech Policy Press 发布评论文章，主张 SEC 应阻止 Anthropic 的 IPO，理由是 AI 公司存在公众保护风险。
 
 **为什么值得看：**
-如果后续研究能确认具体机制，这可能为抗衰老药物和疗法提供一条全新的生物学路径。
+将这两条放在一起看，能感受到 AI 行业内部的一种分裂：技术依然在往前走，但资本和政策层面开始出现更强的防范和退缩情绪。这是理解未来 12 个月 AI 行业节奏的重要背景。
 
 **值得程度：**
-🟡 有意思，但不重要
+👀 值得留意（注意：这两条暂无权威媒体独立确认）
 
 **分类：**
-科技
+AI
 
-**来源：** [Science.org](https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span)
+**来源：** [Reddit 讨论帖](https://www.reddit.com/r/artificial/comments/1xm7eyb/openai_lowers_funding_goals_as_investors_cool_on/) | [Tech Policy Press 评论](https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/)
 
 ---
 
 ## 今天真正值得关注的 3 件事
 
-**1. DeepSeek 开源 super-agent 编码原型**
+**1. Apple 与阿里的 Qwen 合作**
+如果属实，这可能是中国 AI 应用端最大的变量之一，值得关注苹果官方是否确认，以及测试上线后的实际体验。
 
-- **为什么值得关注：** 开源社区第一次拿到完整的 agent 编码框架，而不是只有模型权重。接下来很可能出现一批基于它的复现、改进和衍生项目，直接冲击 Cursor、Devin 这类闭源产品。
-- **接下来值得观察什么：** 社区是否能在普通硬件上跑起来，以及它实际编码能力和闭源产品差距有多大。
+**2. Marvell 的 1150 亿美元订单**
+这笔交易一旦履约，将重塑 AI 芯片市场的竞争格局。值得观察的是客户名单和 Marvell 的交付能力。
 
-**2. Grok Bot 配额一夜用光，马斯克承认成本太高**
+**3. Steam 游戏 AI 渗透率达到近半**
+这个数据意味着 AI 已全面进入游戏生产主流，接下来的看点是玩家和平台方是否会因此调整对 AI 内容的态度。
 
-- **为什么值得关注：** 这是 AI agent 商业化成本问题第一次被头部公司直接承认。如果连 xAI 都撑不住，整个行业的 agent 定价和商业模式都需要重新审视。
-- **接下来值得观察什么：** xAI 会涨价、限流还是优化推理成本；其他家的 agent 产品是否也会出现类似的使用限制。
+---
 
-**3. 无稀土白光发射器量产**
-
-- **为什么值得关注：** 稀土是当前全球科技供应链最脆弱的环节之一。无稀土光源量产，意味着照明和显示行业有了摆脱稀土依赖的可能。
-- **接下来值得观察什么：** 量产成本和光效是否达到商用标准，以及哪些下游厂商会率先采用。
+*今日没有出现类似重磅模型发布或行业合并级别的“特别重磅”变化，但以上几条在各自领域内有明确趋势意义。*
