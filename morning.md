@@ -1,143 +1,115 @@
 # 今日晨报
 
-以下是今日筛选出的晨报内容，共 7 条。
+早上好，以下是今天值得花时间看的内容。
 
-### 为记录而保留的条目说明
-此次新闻列表中，有两条从不同角度触及“OpenAI 降温”主题：融资目标下调、SEC 反对 IPO 的观点文章。考虑到相关性和重要性，我将其合并为一条来分析，其余按价值单选。
-
----
-
-### Apple Intelligence 中国版将采用阿里 Qwen 模型
+### Safari 27.3 引入自适应深色模式
 
 **发生了什么：**
-据红迪社区帖子，苹果在中国大陆的 Apple Intelligence 功能将接入阿里云通义千问（Qwen）模型，测试预计于 11 月 4 日开始。此消息目前尚未得到苹果或阿里巴巴的正式官方确认。
+WebKit 官方博客宣布 Safari 27.3 将加入 Adaptive Dark Mode，可以让网页更好地适配系统深色模式。
 
 **为什么值得看：**
-若属实，这是苹果在中文 AI 助手领域的关键落地，直接解决国行 iPhone 缺乏大模型支持的问题，同时也意味着阿里在 AI to C 市场获得重要入口。
+深色模式一直是网页设计里的麻烦事，如果 Safari 把它做成系统级能力，会影响所有前端开发者和设计师接下来的适配方式。
 
 **值得程度：**
 🔥 很值得看
+
+**分类：**
+设计 / 互联网
+
+**来源：** https://webkit.org/blog/18541/introducing-adaptive-dark-mode/
+
+### ChatGPT 搜索量据称已达 Google 的约 20%
+
+**发生了什么：**
+Reddit 人工智能板块有个热帖引用第三方数据称，ChatGPT 的搜索量目前大约达到 Google 的 20%。目前看到的只是帖子转述，完整测算报告尚未确认。
+
+**为什么值得看：**
+如果趋势属实，意味着 AI 搜索已经从概念变成 Google 实际面对的压力。尤其值得观察它对搜索广告模式的长期影响。
+
+**值得程度：**
+👀 值得留意
 
 **分类：**
 AI / 互联网
 
-**来源：** [Reddit 讨论帖](https://www.reddit.com/r/artificial/comments/1xmhyjf/apple_intelligence_in_china_will_run_on_alibabas/)
+**来源：** https://www.reddit.com/r/artificial/comments/1xng7ur/chatgpts_search_volume_is_now_roughly_20_of/
 
-
-### Marvell 签下 1150 亿美元 AI 芯片协议
+### 传闻：Google 将对禁用 AI 的学校关闭搜索服务
 
 **发生了什么：**
-Marvell 公司与客户签署了一项价值 1150 亿美元的定制 AI 芯片长期协议，被外界视为半导体行业史上最大单笔订单之一，远超此前多数分析预期。
+Reddit 上多个帖子提到，Google 表示如果学校选择禁用 AI，该校学生将无法使用 Google 搜索。目前尚未看到 Google 官方完整声明，细节仍待确认。
 
 **为什么值得看：**
-这笔交易说明定制 AI 芯片市场需求依然极其旺盛，也反映出 AI 算力军备竞赛并未因资本降温而停止。
+这是很有意思的捆绑策略：Google 把 AI 使用条款和核心搜索服务绑在一起，教育机构必须在两者之间做选择。如果属实，会引发不小的争议。
 
 **值得程度：**
-🔥 很值得看
+👀 值得留意
 
 **分类：**
-科技 / AI
+AI / 互联网
 
-**来源：** [Reddit 讨论帖](https://www.reddit.com/r/artificial/comments/1xmkk63/marvell_inks_recordbreaking_115b_ai_deal/)
+**来源：** https://www.reddit.com/r/artificial/comments/1xn22y7/google_to_shut_off_search_for_schools_that_optout/
 
-
-### 近一半 Steam 新游戏使用了 AI
+### Uncracked City：一个需要你审问 LLM 嫌疑人的侦探游戏
 
 **发生了什么：**
-有 Reddit 用户引用数据称，Steam 平台上新发布的游戏中使用 AI 工具的比例已接近 50%，涵盖 AI 生成美术、剧情、配音辅助等多个环节。
+一个名为 Uncracked City 的网页游戏发布在 Hacker News 上。玩家扮演侦探，向由 LLM 驱动的嫌疑人提问，而嫌疑人会撒谎。
 
 **为什么值得看：**
-这是游戏产业生产方式发生结构性变化的直观信号，意味着 AI 不再是少数团队的工具，而正成为游戏开发的基础设施。
+把“语言模型的幻觉和狡辩”变成游戏核心玩法，既有趣，也侧面展示了大模型推理的边界。
 
 **值得程度：**
-🔥 很值得看
+🟡 有意思，但不重要
 
 **分类：**
 游戏 / AI
 
-**来源：** [Reddit 讨论帖](https://www.reddit.com/r/artificial/comments/1xm0tga/almost_half_of_all_new_steam_games_use_ai_now/)
+**来源：** https://uncracked.city
 
-
-### Intel 股价崩盘加剧，芯片行业 3.5 万亿美元市值蒸发
-
-**发生了什么：**
-Intel 股价持续下跌，同时整个芯片板块市值大幅缩水，近一段时间以来已合计损失约 3.5 万亿美元，引发市场对芯片周期见顶的担忧。
-
-**为什么值得看：**
-这不仅是 Intel 一家公司的困境，更可能是整个半导体行业从高增长转向回调的信号，对 AI 产业上游的投资节奏有直接指示意义。
-
-**值得程度：**
-🔥 很值得看
-
-**分类：**
-科技
-
-**来源：** [Yahoo Finance](https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html)
-
-
-### Cloudflare 出现多个服务故障
+### 美国国会进步核心小组主席呼吁将 AI 列为明年首要议题
 
 **发生了什么：**
-Cloudflare 状态页面显示其正在经历多个活跃服务中断事件，影响范围涉及 CDN、DNS 等核心服务。目前官方尚未公布具体受影响用户数量与完整恢复时间。
+根据 Reddit 人工智能板块转述，国会进步核心小组主席呼吁将 AI 作为明年重点议题，并要求科技公司 CEO 到国会作证。
 
 **为什么值得看：**
-Cloudflare 是全球主要网站基础设施之一，它的异常直接影响大量网站和数字服务的可用性，属于互联网运行层面的重要波动。
+这说明 AI 监管问题在美国政坛中的优先级正在上升，未来可能影响大模型的合规要求。
 
 **值得程度：**
 👀 值得留意
-
-**分类：**
-互联网
-
-**来源：** [Cloudflare 状态页](https://www.cloudflarestatus.com/)
-
-
-### DiscImageStudio：把图像烧录到光盘上的开源工具
-
-**发生了什么：**
-一个名为 DiscImageStudio 的开源项目，允许用户在 CD、DVD 和蓝光光盘上烧录可见的艺术图案，将普通光盘变成可展示的画布。
-
-**为什么值得看：**
-它在物理媒介上做视觉创作，把光存储和设计结合在一起，既怀旧又有趣味，适合对实体媒介设计感兴趣的人。
-
-**值得程度：**
-👀 值得留意
-
-**分类：**
-设计 / 科技
-
-**来源：** [GitHub 仓库](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio)
-
-
-### OpenAI 融资目标下调，AI 投资热潮出现退烧迹象
-
-**发生了什么：**
-有 Reddit 帖子称 OpenAI 降低了新一轮融资目标，同时引述观点认为 AI 技能在快速进步，但资本市场投入正在收缩。另外，Tech Policy Press 发布评论文章，主张 SEC 应阻止 Anthropic 的 IPO，理由是 AI 公司存在公众保护风险。
-
-**为什么值得看：**
-将这两条放在一起看，能感受到 AI 行业内部的一种分裂：技术依然在往前走，但资本和政策层面开始出现更强的防范和退缩情绪。这是理解未来 12 个月 AI 行业节奏的重要背景。
-
-**值得程度：**
-👀 值得留意（注意：这两条暂无权威媒体独立确认）
 
 **分类：**
 AI
 
-**来源：** [Reddit 讨论帖](https://www.reddit.com/r/artificial/comments/1xm7eyb/openai_lowers_funding_goals_as_investors_cool_on/) | [Tech Policy Press 评论](https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/)
+**来源：** https://www.reddit.com/r/artificial/comments/1xnf3ks/congressional_progressive_caucus_chair_calls_for/
+
+### Jelly Sheet：一个奇怪的网页互动实验
+
+**发生了什么：**
+知名 Web 创意开发者 mrdoob 发布了新作品 Jelly Sheet，可以在浏览器里直接打开玩。
+
+**为什么值得看：**
+用简单的 Web 技术做出非常流畅的物理感互动，对趣味网页设计和前端开发都有启发。
+
+**值得程度：**
+🟡 有意思，但不重要
+
+**分类：**
+设计
+
+**来源：** https://mrdoob.github.io/codevember-2026/01/
 
 ---
 
 ## 今天真正值得关注的 3 件事
 
-**1. Apple 与阿里的 Qwen 合作**
-如果属实，这可能是中国 AI 应用端最大的变量之一，值得关注苹果官方是否确认，以及测试上线后的实际体验。
+**1. Safari 的自适应深色模式**
 
-**2. Marvell 的 1150 亿美元订单**
-这笔交易一旦履约，将重塑 AI 芯片市场的竞争格局。值得观察的是客户名单和 Marvell 的交付能力。
+这是少有的官方确认、有明确影响的更新。主流浏览器把深色模式从“网页自己适配”变成“浏览器帮你适配”，接下来可以观察哪些知名网站会率先跟进这套方案，以及它会不会倒逼设计工具链升级。
 
-**3. Steam 游戏 AI 渗透率达到近半**
-这个数据意味着 AI 已全面进入游戏生产主流，接下来的看点是玩家和平台方是否会因此调整对 AI 内容的态度。
+**2. AI 搜索量的增长**
 
----
+即使 20% 这个数字尚无可靠原文支持，AI 搜索蚕食传统搜索的趋势本身已经在发生。接下来值得观察的是：Google 是否会在搜索广告模式上做明显让步，以及 OpenAI 是否会进一步公开自己的搜索数据。
 
-*今日没有出现类似重磅模型发布或行业合并级别的“特别重磅”变化，但以上几条在各自领域内有明确趋势意义。*
+**3. Google 对禁用 AI 学校的搜索限制**
+
+如果属实，这是科技公司第一次把核心产品与 AI 政策直接捆绑。接下来可以关注学校的反应、媒体的跟进，以及 Google 官方是否会正式发布说明。在官方确认前，先不要当成既定事实。
