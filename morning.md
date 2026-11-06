@@ -1,66 +1,12 @@
 # 今日晨报
 
-### Altera 发布 Agilex 2X，完整 FPGA 与 SoC 产品组合
+### Hugging Face CEO：AI 毁灭人类的概率“接近零”
 
 **发生了什么：**
-Altera 正式推出 Agilex 2X 系列，这是一个涵盖 FPGA 和 SoC 的完整产品组合，面向边缘计算与嵌入式应用。
+Wired 在活动上采访了 Hugging Face CEO Clément Delangue。他将自己对 AI 带来灾难性后果的估计（P(Doom)）描述为“接近零”。
 
 **为什么值得看：**
-FPGA 在 AI 推理加速和硬件定制化需求中重回舞台中心，Agilex 2X 的完整组合意味着 Altera 在脱离 Intel 后拿出了明确的产品路线。
-
-**值得程度：**
-👀 值得留意
-
-**分类：**
-科技
-
-**来源：** [Altera 官方新闻](https://www.altera.com/newsroom/agilex-2x)
-
----
-
-### SpaceX 推出 Starfall：低成本、常规化的微重力服务
-
-**发生了什么：**
-SpaceX 公布了 Starfall 计划，宣称将提供“可负担的、常规化的微重力访问”服务。
-
-**为什么值得看：**
-如果真能实现常规化，微重力将不再是国家队和超大型企业的专属，材料科学、生物制药等领域的实验成本可能被大幅拉低。这是商业航天从“发射服务”走向“太空实验室服务”的关键信号。
-
-**值得程度：**
-🔥 很值得看
-
-**分类：**
-科技
-
-**来源：** [SpaceX Starfall](https://www.spacex.com/starfall)
-
----
-
-### OpenAI 发布 Images 2.6
-
-**发生了什么：**
-OpenAI 发布了最新图像生成模型 Images 2.6。
-
-**为什么值得看：**
-这是当前在图像生成质量、指令遵循和文字渲染上最领先的模型之一。对设计师、创作者和 AI 绘画使用者来说，这直接影响交付质量和创意工作流。
-
-**值得程度：**
-🔥 很值得看
-
-**分类：**
-AI
-
-**来源：** [OpenAI Images 2.6](https://openai.com/index/introducing-images-2-6/)
-
----
-
-### OpenAI 发布系统安全更新：显著削减 root 权限路径
-
-**发生了什么：**
-OpenAI 宣布通过安全加固，将系统获取 root 权限的路径减少了“一千条”。
-
-**为什么值得看：**
-这是少见的、来自头部 AI 公司的基础设施安全细节披露。说明大模型公司开始从“模型能力竞争”转向“系统安全性竞争”，对行业安全标准有风向标意义。
+Hugging Face 是开源 AI 生态里最重要的公司之一，CEO 公开发表这种和主流安全焦虑相反的观点，值得放在一起对比。
 
 **值得程度：**
 👀 值得留意
@@ -68,17 +14,53 @@ OpenAI 宣布通过安全加固，将系统获取 root 权限的路径减少了�
 **分类：**
 AI
 
-**来源：** [OpenAI 安全更新](https://openai.com/index/a-thousand-fewer-paths-to-root/)
+**来源：** https://www.wired.com/story/wired-world-fair-2026-clement-delangue-hugging-face/
 
 ---
 
-### 深入破解 Xbox 360 Hypervisor：改良 Bad Update 攻击
+### 小岛秀夫：AI 缺了创作过程里最有趣的部分
 
 **发生了什么：**
-一位安全研究者发布了关于 Xbox 360 Hypervisor 破解的第三部分技术详解，重点是改进 Bad Update 攻击方式。
+小岛秀夫在 Automaton West 采访中说，AI 确实高效，但它缺少让创作过程变得有意思的东西，“不是我特别感兴趣的创作形式”。
 
 **为什么值得看：**
-这篇拆解代表了业余安全研究在复杂系统上的极高水准。对平台安全设计和漏洞利用感兴趣的读者来说，是一份难得的第一手技术材料。
+他是最有影响力的游戏作者之一，这个表态代表了顶尖创作者对“AI 替代创作”的一种真实态度。
+
+**值得程度：**
+👀 值得留意
+
+**分类：**
+游戏
+
+**来源：** https://www.reddit.com/r/artificial/comments/1xor677/hideo_kojima_says_ai_lacks_what_makes_the/
+
+---
+
+### 闭源模型仍占价格-性能优势
+
+**发生了什么：**
+village.dev 的最新分析认为，在价格-性能曲线上，闭源模型目前仍然领先于开源模型。
+
+**为什么值得看：**
+这个结论直接关系到企业选型和大模型竞争叙事——开源追上、闭源优势收敛的说法并不总是成立。
+
+**值得程度：**
+👀 值得留意
+
+**分类：**
+AI
+
+**来源：** https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/
+
+---
+
+### Apple 正在削减员工 AI 支出预算
+
+**发生了什么：**
+有消息称 Apple 正在削减员工的 AI 相关支出预算。工程师每日上限从 300 美元降到 200 美元，并计划进一步降到 100 美元，其他团队可能降至 25 美元。这条信息来自二手渠道，目前尚未完全确认。
+
+**为什么值得看：**
+一边让员工多用 AI，一边压缩使用额度，这种矛盾是科技公司在 AI 工具上“既要又要”的一个缩影。
 
 **值得程度：**
 👀 值得留意
@@ -86,55 +68,17 @@ AI
 **分类：**
 科技
 
-**来源：** [技术博客](https://icode4.coffee/?p=1746)
+**来源：** https://www.reddit.com/r/artificial/comments/1xocwcy/apple_is_cutting_employee_ai_spending_budgets/
 
 ---
 
-### 白宫网络检测到住宅代理流量
+### NVKE：Nvidia Kubernetes Engine 公开
 
 **发生了什么：**
-Layer3 Intelligence 发布报告称，在白宫网络流量中检测到了住宅代理（residential proxies）。
+一个名为 NVKE、标注为 Nvidia Kubernetes Engine 的项目出现在 GitHub 上。目前能看到的是公开代码和项目描述。
 
 **为什么值得看：**
-通常流量经过服务商过滤后可以避开 Cloudflare，但这里“案发地”是白宫，说明该问题已触及最顶级的目标，暴露了企业级网络防御的一个盲点。
-
-**值得程度：**
-👀 值得留意
-
-**分类：**
-科技
-
-**来源：** [Layer3 Intel 报告](https://layer3intel.com/blog/residential-proxies-white-house-network)
-
----
-
-### Qualcomm Cloud AI 100 Ultra：150W AI 加速卡，128GB 内存
-
-**发生了什么：**
-Qualcomm 发布了 Cloud AI 100 Ultra，一款面向数据中心推理的 AI 加速卡，功耗 150W，配备 128GB 内存，带宽 548GB/s。
-
-**为什么值得看：**
-在英伟达主导的 AI 芯片市场，Qualcomm 入局意味着推理端功耗效率竞争的加剧。128GB 内存和 150W 功耗的组合，对边缘推理场景有很强针对性。
-
-**值得程度：**
-👀 值得留意
-
-**分类：**
-科技
-
-**来源：** [Qualcomm 产品页](https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra)
-
----
-
-### 昆虫不在 LED 灯下聚集
-
-**发生了什么：**
-一项观察性研究指出，昆虫不会像传统灯光那样聚集在 LED 灯周围。
-
-**为什么值得看：**
-这个现象可能改变建筑设计、户外照明和城市生态保护策略。LED 大规模普及后，人类夜间活动对昆虫生态的影响方式正在改变。
-
-也是今天少有的、非科技领域的“开眼界”内容。
+GPU 集群和调度工具是 AI 基础设施的底层环节，这类项目出现可能影响大规模模型训练和部署方式。现阶段信息有限。
 
 **值得程度：**
 🟡 有意思，但不重要
@@ -142,35 +86,17 @@ Qualcomm 发布了 Cloud AI 100 Ultra，一款面向数据中心推理的 AI 加
 **分类：**
 科技
 
-**来源：** [Birds Outside My Window](https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/)
+**来源：** https://github.com/dsx-ai-factory/nvke
 
 ---
 
-### Lemmings CSS 动画
+### 微软被曝申请“直播中改写人声”专利
 
 **发生了什么：**
-一位开发者用纯 CSS 实现了《Lemmings》游戏的动画效果。
+有 Reddit 帖子称微软申请了一项专利，AI 可以在直播中改变人们说的话。该说法目前尚未得到独立确认。
 
 **为什么值得看：**
-纯 CSS 完成这种级别的动画本身就令人惊讶，是对技术边界的巧妙探索，设计师和前端开发者群体会特别喜欢。
-
-**值得程度：**
-🟡 有意思，但不重要
-
-**分类：**
-设计
-
-**来源：** [Lemmings CSS Animation](https://markblah.github.io/lemmings/)
-
----
-
-### Ripple-65B：美国开放权重模型登顶代理编程
-
-**发生了什么：**
-Ripple-65B 模型发布的预览信息显示，它在代理式编程（Agentic Coding）领域刷新了美国开放权重模型的 SOTA。
-
-**为什么值得看：**
-开放权重模型在编程任务上持续进步，与封闭模型的差距在缩小。对开发者是重大利好。
+如果为真，直播和视频原本的“真实性”可能被技术重新定义，伦理争议会非常大。
 
 **值得程度：**
 👀 值得留意
@@ -178,23 +104,28 @@ Ripple-65B 模型发布的预览信息显示，它在代理式编程（Agentic C
 **分类：**
 AI
 
-**来源：** [Ripple 模型页面](https://www.ricursive.com/ripple)
+**来源：** https://www.reddit.com/r/artificial/comments/1xp3pww/microsoft_files_patent_for_ai_that_can_alter_what/
+
+---
+
+### 8 个 LLM 写钢琴曲，62 人盲听对比
+
+**发生了什么：**
+一项盲听实验让 62 人比较了 8 个 LLM（Gemini、Claude、Qwen、Kimi、Grok、GPT-6.1、DeepSeek、Llama）生成的 8 小节钢琴曲，目前公布了中期结果。
+
+**为什么值得看：**
+这是少有的直接对比主流模型音乐生成能力的实验，能直观感受到当前 AI 作曲的实际水平。
+
+**值得程度：**
+🟡 有意思，但不重要
+
+**分类：**
+音乐
+
+**来源：** https://www.reddit.com/r/artificial/comments/1xoz9sv/blind_listening_test_62_people_compared_8bar/
 
 ---
 
 ## 今天真正值得关注的 3 件事
 
-**1. OpenAI Images 2.6 发布**
-
-- **为什么值得关注：** 图像生成模型迭代速度极快，且继续锁定文字渲染和指令跟随这些核心痛点。对设计、内容创作和广告行业来说，是直接影响生产工具的更新。
-- **接下来值得观察什么：** 对比同期发布的 Google 等竞品模型，生成图像中文字准确性是否能真正投入使用，以及 API 价格是否调低。
-
-**2. SpaceX Starfall 微重力服务计划**
-
-- **为什么值得关注：** SpaceX 正在把“上天”从任务变成一项标准化服务。微重力带来的材料科学和生物制药空间，可能因为价格下降而被彻底打开。
-- **接下来值得观察什么：** 首次商业服务的定价、谁来买单，以及具体怎么实现“常规化”
-
-**3. Qualcomm 入场 AI 推理加速卡**
-
-- **为什么值得关注：** 英伟达几乎垄断 AI 算力市场，但推理端的功耗和成本问题越来越受关注。Qualcomm 的 Cloud AI 100 Ultra 表明巨头正在从边缘反攻数据中心。
-- **接下来值得观察什么：** 实际跑分的性能表现和生态支持；能否拿到主流云厂商的订单。
+今天没有特别重磅的变化。
